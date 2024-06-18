@@ -1,0 +1,233 @@
+
+
+h1 {
+    background-color: orange;
+    text-align: center;
+    font: 25px Arial;
+    background-position: center;
+    width: 70%;
+    margin: 30px auto;
+}
+
+span {
+    font: 16px Arial;
+    white-space: nowrap;
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+    position: relative;
+}
+
+p {
+    text-align: center;
+    font: 18px Arial;
+    font-weight: bold;
+
+    bottom: 110px;
+}
+
+
+.textIn {
+    position: absolute;
+    width: 40%;
+    left: 40%;
+    display: inline-block;
+    margin-left: 6px;
+}
+
+.checkIn {
+    position: absolute;
+    left: 40%;
+    display: inline-block;
+    margin-left: 6px;
+}
+
+
+label {
+    position: absolute;
+    left: 40%;
+    display: inline-block;
+    margin-left: 6px;
+}
+
+button {
+    /*display: inline-block;*/
+    /*position: relative;*/
+    /*!*flex-direction: row;*!*/
+    /*bottom: 70%;*/
+
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 0 auto;
+}
+
+.button1 {
+    width: 200px;
+}
+
+.button2 {
+    width: 200px;
+}
+
+
+/*img {*/
+/*    width: 100%;*/
+/*    !*margin-left: auto;*!*/
+/*    !*margin-right: auto;*!*/
+/*}*/
+
+
+/*вся страница*/
+.page2Body {
+    margin: auto;
+    padding: 0;
+    background-color: gray;
+    width: 100mm;
+    height: 135mm;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/*всё, кроме кнопок*/
+.PageContent {
+    position: relative;
+    width: 96mm;
+    height: 55.8mm;
+    margin: 0;
+    top: 0;
+    /*border: 0.1mm solid lightgray;*/
+}
+
+/*rewers*/
+.PageContent_2 {
+    position: relative;
+    width: 96mm;
+    height: 55.8mm;
+    margin: 0;
+    top: 0;
+    /*border: 0.1mm solid lightgray;*/
+}
+
+/*картинка*/
+.backgroundImg,
+.reverseImg {
+    width: 100%;
+    height: 100%;
+}
+
+/*два блока с данными, не включает картинку*/
+.container_page2 {
+    position: relative;
+    width: 90mm;
+    height: 30mm;
+    margin: auto;
+    bottom: 33mm;
+    /*background-color: orange;*/
+    overflow: hidden;
+}
+
+.div1,
+.div2 {
+    font-family: Arial serif;
+    display: inline-block;
+    /*position: relative;*/
+    height: 30mm;
+    vertical-align: top;
+}
+
+.div1 > p {
+    text-align: right;
+    width: 45mm;
+}
+
+.div2 > p {
+    text-align: left;
+    margin-left: 6mm;
+    width: 39mm;
+}
+
+
+/*.div1 p, .div2 p {*/
+/*    margin-top: 1mm;*/
+/*    margin-bottom: 1mm;*/
+/*}*/
+.text2 {
+    margin-top: -2mm;
+    margin-bottom: 1mm;
+}
+.text3 {
+    margin-top: 1mm;
+    margin-bottom: 2mm;
+}
+.text4 {
+    margin-bottom: -2mm;
+}
+.text6 {
+    margin-top: -2mm;
+    margin-bottom: -1mm;
+}
+
+.page2Body button {
+    margin-top: 8mm;
+}
+
+.Translation {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.text1, .text2 {
+    color: #1919e8;
+    font-weight: bold;
+}
+
+.text3 {
+    color: #383872;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+.text4,
+.text9{
+    /*color: #f82f04;*/
+    color: #9393ce;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+.text5, .text6,
+.text7, .text8 {
+    color: #1a1aab;
+    font-weight: normal;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 10% auto;
+}
+
+
+.div1 .font-controls {
+    display: none;
+}
+.div1:hover .font-controls {
+    display: block;
+}
+
+span.plus-minus {
+    cursor: pointer;
+    margin: 0;
+    padding: 0 2px 0 2px;
+    width: 2px;
+    font-size: 7px;
+}
+
+[contenteditable]:focus {
+    outline: 1px dotted gray;
+}

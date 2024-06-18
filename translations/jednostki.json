@@ -1,0 +1,3457 @@
+[
+ {
+   "id": 1,
+   "nazwa_pl": "Wydział Chemii",
+   "nazwa_en": "Faculty of Chemistry"
+ },
+ {
+   "id": 2,
+   "nazwa_pl": "Wydział Farmaceutyczny",
+   "nazwa_en": "Faculty of Pharmacy"
+ },
+ {
+   "id": 3,
+   "nazwa_pl": "Wydział Filozofii i Nauk Społecznych",
+   "nazwa_en": "Faculty of Philosophy and Social Sciences"
+ },
+ {
+   "id": 4,
+   "nazwa_pl": "Wydział Fizyki, Astronomii i Informatyki Stosowanej",
+   "nazwa_en": "Faculty of Physics, Astronomy and Informatics"
+ },
+ {
+   "id": 5,
+   "nazwa_pl": "Wydział Humanistyczny",
+   "nazwa_en": "Faculty of Humanities"
+ },
+ {
+   "id": 6,
+   "nazwa_pl": "Wydział Lekarski",
+   "nazwa_en": "Faculty of Medicine"
+ },
+ {
+   "id": 7,
+   "nazwa_pl": "Wydział Matematyki i Informatyki",
+   "nazwa_en": "Faculty of Mathematics and Computer Science"
+ },
+ {
+   "id": 8,
+   "nazwa_pl": "Wydział Nauk Biologicznych i Weterynaryjnych",
+   "nazwa_en": "Faculty of Biological and Veterinary Sciences"
+ },
+ {
+   "id": 9,
+   "nazwa_pl": "Wydział Nauk Ekonomicznych i Zarządzania",
+   "nazwa_en": "Faculty of Economic Sciences and Management"
+ },
+ {
+   "id": 10,
+   "nazwa_pl": "Wydział Nauk Historycznych",
+   "nazwa_en": "Faculty of History"
+ },
+ {
+   "id": 11,
+   "nazwa_pl": "Wydział Nauk o Polityce i Bezpieczeństwie",
+   "nazwa_en": "Faculty of Political and Security Sciences"
+ },
+ {
+   "id": 12,
+   "nazwa_pl": "Wydział Nauk o Zdrowiu",
+   "nazwa_en": "Faculty of Health Sciences"
+ },
+ {
+   "id": 13,
+   "nazwa_pl": "Wydział Nauk o Ziemi i Gospodarki Przestrzennej",
+   "nazwa_en": "Faculty of Earth Sciences and Spatial Management"
+ },
+ {
+   "id": 14,
+   "nazwa_pl": "Wydział Prawa i Administracji",
+   "nazwa_en": "Faculty of Law and Administration"
+ },
+ {
+   "id": 15,
+   "nazwa_pl": "Wydział Sztuk Pięknych",
+   "nazwa_en": "Faculty of Fine Arts"
+ },
+ {
+   "id": 16,
+   "nazwa_pl": "Wydział Teologiczny",
+   "nazwa_en": "Faculty of Theology"
+ },
+ {
+   "id": 17,
+   "nazwa_pl": "Szkoły doktorskie",
+   "nazwa_en": "Doctoral Schools"
+ },
+ {
+   "id": 18,
+   "nazwa_pl": "Akademickie Centrum Kultury i Sztuki \"Od Nowa\"",
+   "nazwa_en": "Academic Centre for Culture and Art “od Nowa”"
+ },
+ {
+   "id": 19,
+   "nazwa_pl": "Archiwum UMK",
+   "nazwa_en": "NCU Archives"
+ },
+ {
+   "id": 20,
+   "nazwa_pl": "Biblioteka Uniwersytecka",
+   "nazwa_en": "University Library"
+ },
+ {
+   "id": 21,
+   "nazwa_pl": "Centrum Badania Historii \"Solidarności\" i Oporu Społecznego w PRL",
+   "nazwa_en": "Centre for Research On the History"
+ },
+ {
+   "id": 22,
+   "nazwa_pl": "Centrum Badań Kopernikańskich",
+   "nazwa_en": "Centre for Copernican Studies"
+ },
+ {
+   "id": 23,
+   "nazwa_pl": "Centrum Języków Specjalistycznych w Medycynie",
+   "nazwa_en": "Centre for Specialised Languages in Medicine"
+ },
+ {
+   "id": 24,
+   "nazwa_pl": "Centrum Kształcenia w Języku Angielskim Collegium Medicum UMK",
+   "nazwa_en": "Centre for Medical Education in English at NCU Collegium Medicum"
+ },
+ {
+   "id": 25,
+   "nazwa_pl": "Centrum Naukowe Ratzingerianum",
+   "nazwa_en": "Ratzingerianum Research Centre"
+ },
+ {
+   "id": 26,
+   "nazwa_pl": "Centrum Przedsiębiorczości Akademickiej i Transferu Technologii Uniwer",
+   "nazwa_en": "Centre for Academic Entrepreneurship and Technology Transfer at the Ni"
+ },
+ {
+   "id": 27,
+   "nazwa_pl": "Centrum Symulacji Medycznych Collegium Medicum UMK",
+   "nazwa_en": "Centre for Medical Simulation at NCU Collegium Medicum"
+ },
+ {
+   "id": 28,
+   "nazwa_pl": "Interdyscyplinarne Centrum Nowoczesnych Technologii",
+   "nazwa_en": "Centre for Modern Interdisciplinary Technologies (icnt)"
+ },
+ {
+   "id": 29,
+   "nazwa_pl": "Ośrodek Analiz Statystycznych",
+   "nazwa_en": "Centre for Statistical Analysis"
+ },
+ {
+   "id": 30,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Doświadczeń na Zwierzętach w CM",
+   "nazwa_en": "CM Independent Supervisor for Animal Experimentation"
+ },
+ {
+   "id": 31,
+   "nazwa_pl": "Studium Medycyny Społecznej CM",
+   "nazwa_en": "CM Centre for Social Medicine"
+ },
+ {
+   "id": 32,
+   "nazwa_pl": "Studium Praktycznej Nauki Języków Obcych",
+   "nazwa_en": "Foreign Languages Centre"
+ },
+ {
+   "id": 33,
+   "nazwa_pl": "Studium Wychowania Fizycznego i Sportu CM",
+   "nazwa_en": "CM Centre for Physical Education and Sport"
+ },
+ {
+   "id": 34,
+   "nazwa_pl": "Uniwersytecki Ośrodek Analiz Strategicznych",
+   "nazwa_en": "University Strategic Analysis Board"
+ },
+ {
+   "id": 35,
+   "nazwa_pl": "Uniwersytecki Ośrodek Wsparcia i Rozwoju Osobistego",
+   "nazwa_en": "University Centre for Support and Personal Development"
+ },
+ {
+   "id": 36,
+   "nazwa_pl": "Uniwersyteckie Centra Naukowe Nadzorowane przez Dziekanów Wydziałów",
+   "nazwa_en": "University-Wide Research Centres Supervised by Faculty Deans"
+ },
+ {
+   "id": 37,
+   "nazwa_pl": "Uniwersyteckie Centrum Archeologii Średniowiecza i Nowożytności",
+   "nazwa_en": "University Centre for Archaeology of Middle Ages and Early Modern Peri"
+ },
+ {
+   "id": 38,
+   "nazwa_pl": "Uniwersyteckie Centrum Badań Nieliniowych im. J. P. Schaudera",
+   "nazwa_en": "Juliusz P. Schauder Centre for Nonlinear Studies"
+ },
+ {
+   "id": 39,
+   "nazwa_pl": "Uniwersyteckie Centrum Informatyczne",
+   "nazwa_en": "University Centre for IT Services"
+ },
+ {
+   "id": 40,
+   "nazwa_pl": "Uniwersyteckie Centrum Języków Obcych",
+   "nazwa_en": "University Centre for Foreign Languages"
+ },
+ {
+   "id": 41,
+   "nazwa_pl": "Uniwersyteckie Centrum Sportowe",
+   "nazwa_en": "University Sports Centre"
+ },
+ {
+   "id": 42,
+   "nazwa_pl": "Wydawnictwo Naukowe UMK",
+   "nazwa_en": "Nicolaus Copernicus University Press"
+ },
+ {
+   "id": 43,
+   "nazwa_pl": "Administracja Biblioteki Głównej",
+   "nazwa_en": "Library Administration"
+ },
+ {
+   "id": 44,
+   "nazwa_pl": "Administracja CBK",
+   "nazwa_en": "CBK Administration"
+ },
+ {
+   "id": 45,
+   "nazwa_pl": "Administracja Centrum",
+   "nazwa_en": "Administration UCS"
+ },
+ {
+   "id": 46,
+   "nazwa_pl": "Administracja ICNT",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 47,
+   "nazwa_pl": "Administracja Instytutu Astronomii",
+   "nazwa_en": "Institute of Astronomy Administration"
+ },
+ {
+   "id": 48,
+   "nazwa_pl": "Administracja SPNJO",
+   "nazwa_en": "Administration of SPNJO"
+ },
+ {
+   "id": 49,
+   "nazwa_pl": "Administracja UCI",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 50,
+   "nazwa_pl": "Administracja UCJO",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 51,
+   "nazwa_pl": "Administracja w Bydgoszczy",
+   "nazwa_en": "Administration in Bydgoszcz"
+ },
+ {
+   "id": 52,
+   "nazwa_pl": "Administracja w Toruniu",
+   "nazwa_en": "Administration in Toruń"
+ },
+ {
+   "id": 53,
+   "nazwa_pl": "Administracja WFAiIS",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 54,
+   "nazwa_pl": "Administracja WFarm",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 55,
+   "nazwa_pl": "Administracja WL",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 56,
+   "nazwa_pl": "Administracja WNEiZ",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 57,
+   "nazwa_pl": "Administracja WNoZ",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 58,
+   "nazwa_pl": "Administracja WPiA",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 59,
+   "nazwa_pl": "Administracja WSzP",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 60,
+   "nazwa_pl": "Administracja Wydawnictwa",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 61,
+   "nazwa_pl": "Administracja Wydziału Chemii",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 62,
+   "nazwa_pl": "Administracja Wydziału Filozofii i Nauk Społecznych",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 63,
+   "nazwa_pl": "Administracja Wydziału Humanistycznego",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 64,
+   "nazwa_pl": "Administracja Wydziału Matematyki i Informatyki",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 65,
+   "nazwa_pl": "Administracja Wydziału Nauk Biologicznych i Weterynaryjnych",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 66,
+   "nazwa_pl": "Administracja Wydziału Nauk Historycznych",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 67,
+   "nazwa_pl": "Administracja Wydziału Nauk o Polityce i Bezpieczeństwie",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 68,
+   "nazwa_pl": "Administracja Wydziału Nauk o Ziemi i Gospodarki Przestrzennej",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 69,
+   "nazwa_pl": "Administracja Wydziału Teologicznego",
+   "nazwa_en": "Administration"
+ },
+ {
+   "id": 70,
+   "nazwa_pl": "Archiwum UMK - Oddział Zamiejscowy w Bydgoszczy",
+   "nazwa_en": "NCU Archives – Off-campus Branch in Bydgoszcz"
+ },
+ {
+   "id": 71,
+   "nazwa_pl": "Aula UMK",
+   "nazwa_en": "NCU Auditorium"
+ },
+ {
+   "id": 72,
+   "nazwa_pl": "Biblioteka Collegium Humanisticum",
+   "nazwa_en": "Library of Collegium Humanisticum"
+ },
+ {
+   "id": 73,
+   "nazwa_pl": "Biblioteka Główna",
+   "nazwa_en": "Main Library"
+ },
+ {
+   "id": 74,
+   "nazwa_pl": "Biblioteka Instytutu Archeologii",
+   "nazwa_en": "Library of the Institute of Archaeology"
+ },
+ {
+   "id": 75,
+   "nazwa_pl": "Biblioteka Instytutu Fizyki",
+   "nazwa_en": "Library of the Institute of Physics"
+ },
+ {
+   "id": 76,
+   "nazwa_pl": "Biblioteka Medyczna",
+   "nazwa_en": "Medical Library"
+ },
+ {
+   "id": 77,
+   "nazwa_pl": "Biblioteka Wydziału Chemii",
+   "nazwa_en": "Library of the Faculty of Chemistry"
+ },
+ {
+   "id": 78,
+   "nazwa_pl": "Biblioteka Wydziału Filozofii i Nauk Społecznych",
+   "nazwa_en": "Library of the Faculty of Philosophy and Social Sciences"
+ },
+ {
+   "id": 79,
+   "nazwa_pl": "Biblioteka Wydziału Fizyki, Astronomii i Informatyki Stosowanej",
+   "nazwa_en": "Library of the Faculty of Physics, Astronomy and Informatics"
+ },
+ {
+   "id": 80,
+   "nazwa_pl": "Biblioteka Wydziału Humanistycznego",
+   "nazwa_en": "Library of Collegium Humanisticum"
+ },
+ {
+   "id": 81,
+   "nazwa_pl": "Biblioteka Wydziału Matematyki i Informatyki",
+   "nazwa_en": "Library of the Faculty of Mathematics and Computer Science"
+ },
+ {
+   "id": 82,
+   "nazwa_pl": "Biblioteka Wydziału Nauk Ekonomicznych i Zarządzania",
+   "nazwa_en": "Library of the Faculty of Economic Sciences and Management"
+ },
+ {
+   "id": 83,
+   "nazwa_pl": "Biblioteka Wydziału Nauk Historycznych",
+   "nazwa_en": "Library of the Faculty of History"
+ },
+ {
+   "id": 84,
+   "nazwa_pl": "Biblioteka Wydziału Nauk o Polityce i Bezpieczeństwie",
+   "nazwa_en": "Library of the Faculty of Political Science and Security Studies"
+ },
+ {
+   "id": 85,
+   "nazwa_pl": "Biblioteka Wydziału Prawa i Administracji",
+   "nazwa_en": "Library of the Faculty of Law and Administration"
+ },
+ {
+   "id": 86,
+   "nazwa_pl": "Biblioteka Wydziału Sztuk Pięknych",
+   "nazwa_en": "Library of the Faculty of Fine Arts"
+ },
+ {
+   "id": 87,
+   "nazwa_pl": "Biblioteka Wydziału Teologicznego",
+   "nazwa_en": "Library of the Faculty of Theology"
+ },
+ {
+   "id": 88,
+   "nazwa_pl": "Biblioteki Wydziałowe i Instytutowe",
+   "nazwa_en": "Faculty Libraries"
+ },
+ {
+   "id": 89,
+   "nazwa_pl": "Biuro Rektora",
+   "nazwa_en": "Office of the Rector"
+ },
+ {
+   "id": 90,
+   "nazwa_pl": "Bursa Gimnazjum i Liceum Akademickiego",
+   "nazwa_en": "Dormitory of the Lower and Upper Academic Secondary School"
+ },
+ {
+   "id": 91,
+   "nazwa_pl": "Centrum Archeologii Podwodnej (WNH)",
+   "nazwa_en": "Centre for Underwater Archaeology"
+ },
+ {
+   "id": 92,
+   "nazwa_pl": "Centrum Badań Europy Środkowej i Wschodniej (WNEiZ)",
+   "nazwa_en": "Centre for Central and Eastern European Studies (FESM)"
+ },
+ {
+   "id": 93,
+   "nazwa_pl": "Centrum Badań i Konserwacji Dziedzictwa Kulturowego (WSzP)",
+   "nazwa_en": "Centre for Study and Conservation of Cultural Heritage (FFA)"
+ },
+ {
+   "id": 94,
+   "nazwa_pl": "Centrum Badań Kitabistycznych (WH)",
+   "nazwa_en": "Centre for Kitab Studies (FHum)"
+ },
+ {
+   "id": 95,
+   "nazwa_pl": "Centrum Badań nad Cyberprzestępczością",
+   "nazwa_en": "Centre for Cybercrime Research"
+ },
+ {
+   "id": 96,
+   "nazwa_pl": "Centrum Badań nad Ewolucją Języka (WH)",
+   "nazwa_en": "Centre for Language Evolution Studies (FHum)"
+ },
+ {
+   "id": 97,
+   "nazwa_pl": "Centrum Badań nad Rodziną (WFiNS)",
+   "nazwa_en": "Centre for Family Research (FPhSS)"
+ },
+ {
+   "id": 98,
+   "nazwa_pl": "Centrum Badań Polarnych (WNoZiGP)",
+   "nazwa_en": "Polar Research Centre"
+ },
+ {
+   "id": 99,
+   "nazwa_pl": "Centrum Badań Turystycznych (WNEiZ)",
+   "nazwa_en": "Centre for Tourism Research (FESM)"
+ },
+ {
+   "id": 100,
+   "nazwa_pl": "Centrum Edukacyjno-Badawcze Metod Separacyjnych i Bioanalitycznych (WC",
+   "nazwa_en": "Centre for Education and Research in Separation Methods and Bioanalysi"
+ },
+ {
+   "id": 101,
+   "nazwa_pl": "Centrum Gospodarki i Finansów Cyfrowych",
+   "nazwa_en": "Centre for Digital Economy and Finance"
+ },
+ {
+   "id": 102,
+   "nazwa_pl": "Centrum Języka i Kultury Chińskiej (WH)",
+   "nazwa_en": "Centre for Chinese Language and Culture (FHUM)"
+ },
+ {
+   "id": 103,
+   "nazwa_pl": "Centrum Projektowania Doświadczeń w Branży i Turystyce",
+   "nazwa_en": "Centre for Designing Experiences in Events and Tourism"
+ },
+ {
+   "id": 104,
+   "nazwa_pl": "Centrum Przywództwa i Społecznej Odpowiedzialności Biznesu (WNEiZ)",
+   "nazwa_en": "Centre for Leadership and Corporate Social Responsibility (FESM)"
+ },
+ {
+   "id": 105,
+   "nazwa_pl": "Centrum Studiów Wyborczych (WPiA)",
+   "nazwa_en": "Centr for Electoral Studies (FLA)"
+ },
+ {
+   "id": 106,
+   "nazwa_pl": "Chór Akademicki",
+   "nazwa_en": "Academic Choir"
+ },
+ {
+   "id": 107,
+   "nazwa_pl": "Dokumentaliści",
+   "nazwa_en": "Documentalists"
+ },
+ {
+   "id": 108,
+   "nazwa_pl": "Dom Akademicki nr 1",
+   "nazwa_en": "Academic House No. 1"
+ },
+ {
+   "id": 109,
+   "nazwa_pl": "Dom Studencki nr 1",
+   "nazwa_en": "Student House No. 1"
+ },
+ {
+   "id": 110,
+   "nazwa_pl": "Dom Studencki nr 1",
+   "nazwa_en": "Student House No. 1"
+ },
+ {
+   "id": 111,
+   "nazwa_pl": "Dom Studencki Nr 1",
+   "nazwa_en": "Student House No. 1"
+ },
+ {
+   "id": 112,
+   "nazwa_pl": "Dom Studencki nr 10",
+   "nazwa_en": "Student House No. 10"
+ },
+ {
+   "id": 113,
+   "nazwa_pl": "Dom Studencki nr 10",
+   "nazwa_en": "Student House No. 10"
+ },
+ {
+   "id": 114,
+   "nazwa_pl": "Dom Studencki nr 11",
+   "nazwa_en": "Student House No. 11"
+ },
+ {
+   "id": 115,
+   "nazwa_pl": "Dom Studencki nr 11",
+   "nazwa_en": "Student House No. 11"
+ },
+ {
+   "id": 116,
+   "nazwa_pl": "Dom Studencki nr 12",
+   "nazwa_en": "Student House No. 12"
+ },
+ {
+   "id": 117,
+   "nazwa_pl": "Dom Studencki nr 12",
+   "nazwa_en": "Student House No. 12"
+ },
+ {
+   "id": 118,
+   "nazwa_pl": "Dom Studencki nr 2",
+   "nazwa_en": "Student House No. 2"
+ },
+ {
+   "id": 119,
+   "nazwa_pl": "Dom Studencki nr 2",
+   "nazwa_en": "Student House No. 2"
+ },
+ {
+   "id": 120,
+   "nazwa_pl": "Dom Studencki Nr 2",
+   "nazwa_en": "Student House No. 2"
+ },
+ {
+   "id": 121,
+   "nazwa_pl": "Dom Studencki nr 3",
+   "nazwa_en": "Student House No. 3"
+ },
+ {
+   "id": 122,
+   "nazwa_pl": "Dom Studencki nr 3",
+   "nazwa_en": "Student House No. 3"
+ },
+ {
+   "id": 123,
+   "nazwa_pl": "Dom Studencki nr 5",
+   "nazwa_en": "Student House No. 5"
+ },
+ {
+   "id": 124,
+   "nazwa_pl": "Dom Studencki nr 5",
+   "nazwa_en": "Student House No. 5"
+ },
+ {
+   "id": 125,
+   "nazwa_pl": "Dom Studencki nr 6",
+   "nazwa_en": "Student House No. 6"
+ },
+ {
+   "id": 126,
+   "nazwa_pl": "Dom Studencki nr 6",
+   "nazwa_en": "Student House No. 6"
+ },
+ {
+   "id": 127,
+   "nazwa_pl": "Dom Studencki nr 7",
+   "nazwa_en": "Student House No. 7"
+ },
+ {
+   "id": 128,
+   "nazwa_pl": "Dom Studencki nr 7",
+   "nazwa_en": "Student House No. 7"
+ },
+ {
+   "id": 129,
+   "nazwa_pl": "Dom Studencki nr 8",
+   "nazwa_en": "Student House No. 8"
+ },
+ {
+   "id": 130,
+   "nazwa_pl": "Dom Studencki nr 8",
+   "nazwa_en": "Student House No. 8"
+ },
+ {
+   "id": 131,
+   "nazwa_pl": "Dom Studencki nr 9",
+   "nazwa_en": "Student House No. 9"
+ },
+ {
+   "id": 132,
+   "nazwa_pl": "Dom Studencki nr 9",
+   "nazwa_en": "Student House No. 9"
+ },
+ {
+   "id": 133,
+   "nazwa_pl": "Dom Studencki nr3 ",
+   "nazwa_en": "Student House no. 3"
+ },
+ {
+   "id": 134,
+   "nazwa_pl": "Drukarnia i Introligatornia",
+   "nazwa_en": "Printery and Bookbindery"
+ },
+ {
+   "id": 135,
+   "nazwa_pl": "Dyskusyjny Klub Filmowy \"Niebieski Kocyk\"",
+   "nazwa_en": "Film Discussion Club “niebieski Kocyk”"
+ },
+ {
+   "id": 136,
+   "nazwa_pl": "Dział Administracyjno-Gospodarczy",
+   "nazwa_en": "Department of Administration and Maintenance"
+ },
+ {
+   "id": 137,
+   "nazwa_pl": "Dział Administracyjno-Gospodarczy (Obsługa SPNJO)",
+   "nazwa_en": "Department of Administration and Maintenance (SPNJO)"
+ },
+ {
+   "id": 138,
+   "nazwa_pl": "Dział Administracyjno-Gospodarczy CM",
+   "nazwa_en": "CM Department of Administration and Maintenance"
+ },
+ {
+   "id": 139,
+   "nazwa_pl": "Dział Aparatury Naukowej",
+   "nazwa_en": "Department of Academic Equipment Maintenance"
+ },
+ {
+   "id": 140,
+   "nazwa_pl": "Dział Audytu Wewnętrznego i Kontroli",
+   "nazwa_en": "Department of Internal Audit and Control"
+ },
+ {
+   "id": 141,
+   "nazwa_pl": "Dział Domów Studenckich i Akademickich",
+   "nazwa_en": "Department of Student"
+ },
+ {
+   "id": 142,
+   "nazwa_pl": "Dział Domów Studenckich i Akademickich CM",
+   "nazwa_en": "CM Department of Student and Academic Houses"
+ },
+ {
+   "id": 143,
+   "nazwa_pl": "Dział Domów Studenckich i Hoteli Asystenckich",
+   "nazwa_en": "Department of Student and Employee Houses"
+ },
+ {
+   "id": 144,
+   "nazwa_pl": "Dział Domów Studenckich i Hoteli Asystenckich CM",
+   "nazwa_en": "CM Department of Student and Employee Houses"
+ },
+ {
+   "id": 145,
+   "nazwa_pl": "Dział Dydaktyki CM",
+   "nazwa_en": "CM Department of Didactics"
+ },
+ {
+   "id": 146,
+   "nazwa_pl": "Dział Energetyczny",
+   "nazwa_en": "Department of Power Engineering"
+ },
+ {
+   "id": 147,
+   "nazwa_pl": "Dział Energetyki CM",
+   "nazwa_en": "CM Department of Facility Maintenance"
+ },
+ {
+   "id": 148,
+   "nazwa_pl": "Dział Finansowy",
+   "nazwa_en": "Department of Finance"
+ },
+ {
+   "id": 149,
+   "nazwa_pl": "Dział Finansowy CM",
+   "nazwa_en": "CM Department of Finance"
+ },
+ {
+   "id": 150,
+   "nazwa_pl": "Dział Informatyczny CM",
+   "nazwa_en": "CM Department of It Management"
+ },
+ {
+   "id": 151,
+   "nazwa_pl": "Dział Informatycznych Zamówień Publicznych",
+   "nazwa_en": "Department of ICT Public Procurement"
+ },
+ {
+   "id": 152,
+   "nazwa_pl": "Dział Informatyzacji Administracji",
+   "nazwa_en": "Department of Administration Informatisation"
+ },
+ {
+   "id": 153,
+   "nazwa_pl": "Dział Informatyzacji Collegium Medicum",
+   "nazwa_en": "Department of Collegium Medicum Informatisation"
+ },
+ {
+   "id": 154,
+   "nazwa_pl": "Dział Informatyzacji Toku Nauczania",
+   "nazwa_en": "Department of Education Informatisation"
+ },
+ {
+   "id": 155,
+   "nazwa_pl": "Dział Inwentaryzacji",
+   "nazwa_en": "Department of Stocktaking"
+ },
+ {
+   "id": 156,
+   "nazwa_pl": "Dział Inwestycyjny",
+   "nazwa_en": "Department of Investments"
+ },
+ {
+   "id": 157,
+   "nazwa_pl": "Dział Księgowości",
+   "nazwa_en": "Department of Accounting"
+ },
+ {
+   "id": 158,
+   "nazwa_pl": "Dział Księgowości CM",
+   "nazwa_en": "CM Department of Accounting"
+ },
+ {
+   "id": 159,
+   "nazwa_pl": "Dział Kształcenia",
+   "nazwa_en": "Department of Education"
+ },
+ {
+   "id": 160,
+   "nazwa_pl": "Dział Kształcenia CM",
+   "nazwa_en": "CM Department of Education"
+ },
+ {
+   "id": 161,
+   "nazwa_pl": "Dział Międzynarodowych Partnerstw i Mobilności Edukacyjnej",
+   "nazwa_en": "Department of International Partnerships and Educational Mobility"
+ },
+ {
+   "id": 162,
+   "nazwa_pl": "Dział Międzynarodowych Projektów Badawczych",
+   "nazwa_en": "Department of International Research Projects"
+ },
+ {
+   "id": 163,
+   "nazwa_pl": "Dział Nauki",
+   "nazwa_en": "Department of Research"
+ },
+ {
+   "id": 164,
+   "nazwa_pl": "Dział Nauki CM",
+   "nazwa_en": "CM Department of Research"
+ },
+ {
+   "id": 165,
+   "nazwa_pl": "Dział Nauki i Projektów CM",
+   "nazwa_en": "CM Department of Research and Projects"
+ },
+ {
+   "id": 166,
+   "nazwa_pl": "Dział Nauki i Współpracy z Zagranicą CM",
+   "nazwa_en": "CM Department of Research and International Cooperation"
+ },
+ {
+   "id": 167,
+   "nazwa_pl": "Dział Obsługi MSK TORMAN",
+   "nazwa_en": "Department of TORMAN Network"
+ },
+ {
+   "id": 168,
+   "nazwa_pl": "Dział Obsługi Technicznej",
+   "nazwa_en": "Department of Technical Support"
+ },
+ {
+   "id": 169,
+   "nazwa_pl": "Dział Organizacji",
+   "nazwa_en": "Department of Internal Organisation"
+ },
+ {
+   "id": 170,
+   "nazwa_pl": "Dział Organizacji CM",
+   "nazwa_en": "CM Department of Internal Organisation"
+ },
+ {
+   "id": 171,
+   "nazwa_pl": "Dział Planowania i Analiz",
+   "nazwa_en": "Department of Financial Planning and Analysis"
+ },
+ {
+   "id": 172,
+   "nazwa_pl": "Dział Płac",
+   "nazwa_en": "Department of Payroll Services"
+ },
+ {
+   "id": 173,
+   "nazwa_pl": "Dział Płac CM",
+   "nazwa_en": "CM Department of Payroll Services"
+ },
+ {
+   "id": 174,
+   "nazwa_pl": "Dział Projektów i Współpracy Międzynarodowej CM",
+   "nazwa_en": "CM Department of Projects and International Cooperation"
+ },
+ {
+   "id": 175,
+   "nazwa_pl": "Dział Promocji i Informacji CM",
+   "nazwa_en": "CM Department of Promotion and Information"
+ },
+ {
+   "id": 176,
+   "nazwa_pl": "Dział Promocji i Informacji UMK",
+   "nazwa_en": "NCU Department of Promotion and Information"
+ },
+ {
+   "id": 177,
+   "nazwa_pl": "Dział Promocji i Komunikacji CM",
+   "nazwa_en": "CM Department of Promotion and Communication"
+ },
+ {
+   "id": 178,
+   "nazwa_pl": "Dział Promocji i Komunikacji UMK",
+   "nazwa_en": "NCU Department of Promotion and Communication"
+ },
+ {
+   "id": 179,
+   "nazwa_pl": "Dział Rekrutacji i Spraw Studenckich",
+   "nazwa_en": "Department of Admissions and Student Affairs"
+ },
+ {
+   "id": 180,
+   "nazwa_pl": "Dział Rekrutacji i Spraw Studenckich CM",
+   "nazwa_en": "CM Department of Admissions and Student Affairs"
+ },
+ {
+   "id": 181,
+   "nazwa_pl": "Dział Remontowy",
+   "nazwa_en": "Department of Renovations"
+ },
+ {
+   "id": 182,
+   "nazwa_pl": "Dział Remontów i Inwestycji CM",
+   "nazwa_en": "CM Department of Renovations and Investments"
+ },
+ {
+   "id": 183,
+   "nazwa_pl": "Dział Serwisu Aparatury CM",
+   "nazwa_en": "CM Department of Equipment Maintenance"
+ },
+ {
+   "id": 184,
+   "nazwa_pl": "Dział Sieci Lokalnych",
+   "nazwa_en": "Department of Local Area Network Services"
+ },
+ {
+   "id": 185,
+   "nazwa_pl": "Dział Sieci Uniwersyteckiej",
+   "nazwa_en": "Department of University Network Services"
+ },
+ {
+   "id": 186,
+   "nazwa_pl": "Dział Socjalny",
+   "nazwa_en": "Department of Social Services"
+ },
+ {
+   "id": 187,
+   "nazwa_pl": "Dział Socjalny CM",
+   "nazwa_en": "CM Department of Social Services"
+ },
+ {
+   "id": 188,
+   "nazwa_pl": "Dział Spraw Obronnych",
+   "nazwa_en": "Department of Civil Defence"
+ },
+ {
+   "id": 189,
+   "nazwa_pl": "Dział Spraw Pracowniczych",
+   "nazwa_en": "Department of Human Resources"
+ },
+ {
+   "id": 190,
+   "nazwa_pl": "Dział Spraw Pracowniczych CM",
+   "nazwa_en": "CM Department of Human Resources"
+ },
+ {
+   "id": 191,
+   "nazwa_pl": "Dział Szkoleń BHP",
+   "nazwa_en": "Department of Ohs Training"
+ },
+ {
+   "id": 192,
+   "nazwa_pl": "Dział Transportu",
+   "nazwa_en": "Department of Transport"
+ },
+ {
+   "id": 193,
+   "nazwa_pl": "Dział Wsparcia Nauczania Zdalnego",
+   "nazwa_en": "Department of Online Teaching Support"
+ },
+ {
+   "id": 194,
+   "nazwa_pl": "Dział Współpracy Międzynarodowej",
+   "nazwa_en": "Department of International Cooperation"
+ },
+ {
+   "id": 195,
+   "nazwa_pl": "Dział Zakupów",
+   "nazwa_en": "Department of Purchasing"
+ },
+ {
+   "id": 196,
+   "nazwa_pl": "Dział Zamówień Publicznych",
+   "nazwa_en": "Department of Public Procurement"
+ },
+ {
+   "id": 197,
+   "nazwa_pl": "Dział Zaopatrzenia CM",
+   "nazwa_en": "CM Department of Supplies"
+ },
+ {
+   "id": 198,
+   "nazwa_pl": "Dział Zaopatrzenia i Transportu",
+   "nazwa_en": "Department of Supplies and Transport"
+ },
+ {
+   "id": 199,
+   "nazwa_pl": "Dział Zarządzania Funduszami Strukturalnymi",
+   "nazwa_en": "Department of Structural Funds Management"
+ },
+ {
+   "id": 200,
+   "nazwa_pl": "Dział Zasobów Informacyjnych",
+   "nazwa_en": "Department of Information Resources"
+ },
+ {
+   "id": 201,
+   "nazwa_pl": "Dział Zawodowej Promocji Studentów i Absolwentów CM",
+   "nazwa_en": "CM Department of Career Services for Students and Graduates"
+ },
+ {
+   "id": 202,
+   "nazwa_pl": "Dział Zawodowej Promocji Studentów i Absolwentów UMK",
+   "nazwa_en": "Department of Career Services for NCU Students and Graduates"
+ },
+ {
+   "id": 203,
+   "nazwa_pl": "Dziekanat Wydziału Lekarskiego",
+   "nazwa_en": "Dean’s Office of the Faculty of Medicine"
+ },
+ {
+   "id": 204,
+   "nazwa_pl": "Dziekanat Wydziały Farmaceutycznego",
+   "nazwa_en": "Dean’s Office of the Faculty of Pharmacy"
+ },
+ {
+   "id": 205,
+   "nazwa_pl": "Dziekanat Wydziału Nauk o Zdrowiu",
+   "nazwa_en": "Dean’s Office of the Faculty of Health Sciences"
+ },
+ {
+   "id": 206,
+   "nazwa_pl": "Dziekanat Wydziału Chemii",
+   "nazwa_en": "Dean’s Office of the Faculty of Chemistry"
+ },
+ {
+   "id": 207,
+   "nazwa_pl": "Dziekanat Wydziału Fizyki Astronomii i Informatyki Stosowanej",
+   "nazwa_en": "Dean’s Office of the Faculty of Physics, Astronomy and Informatics"
+ },
+ {
+   "id": 208,
+   "nazwa_pl": "Dziekanat Wydziału Matematyki i Informatyki",
+   "nazwa_en": "Dean’s Office of the Faculty of Mathematics and Computer Science"
+ },
+ {
+   "id": 209,
+   "nazwa_pl": "Dziekanat Wydziału Zarządzania i Marketingu",
+   "nazwa_en": "Dean’s Office of the Faculty of Economic Sciences and Management"
+ },
+ {
+   "id": 210,
+   "nazwa_pl": "Dziekanat Wydziału Nauk Historycznych",
+   "nazwa_en": "Dean’s Office of the Faculty of History"
+ },
+ {
+   "id": 211,
+   "nazwa_pl": "Dziekanat Wydziału Prawa i Administracji",
+   "nazwa_en": "Dean’s Office of the Faculty of Law and Administration"
+ },
+ {
+   "id": 212,
+   "nazwa_pl": "Dziekanat Wydziału Sztuk Pięknych",
+   "nazwa_en": "Dean’s Office of the Faculty of Fine Arts"
+ },
+ {
+   "id": 213,
+   "nazwa_pl": "Dziekanat Wydziału Teologicznego",
+   "nazwa_en": "Dean’s Office of the Faculty of Theology"
+ },
+ {
+   "id": 214,
+   "nazwa_pl": "Dziekanat Wydziału Filozofii i Nauk Społecznych",
+   "nazwa_en": "Dean’s Office of the Faculty of Philosophy and Social Sciences"
+ },
+ {
+   "id": 215,
+   "nazwa_pl": "Dziekanat Wydziału Humanistycznego",
+   "nazwa_en": "Dean’s Office of the Faculty of Humanities"
+ },
+ {
+   "id": 216,
+   "nazwa_pl": "Dziekanat Wydziału Nauk Biologicznych i Weterynaryjnych",
+   "nazwa_en": "Dean’s Office of the Faculty of Biological and Veterinary Sciences"
+ },
+ {
+   "id": 217,
+   "nazwa_pl": "Dziekanat Wydziału Nauk o Polityce i Bezpieczeństwie",
+   "nazwa_en": "Dean’s Office of the Faculty of Political Science and Security Studies"
+ },
+ {
+   "id": 218,
+   "nazwa_pl": "Dziekanat Wydziału Nauk o Ziemi i Gospodarki Przestrzennej",
+   "nazwa_en": "Dean’s Office of the Faculty of Earth Sciences and Spatial Management"
+ },
+ {
+   "id": 219,
+   "nazwa_pl": "Gabinet Dokumentów Życia Społecznego",
+   "nazwa_en": "Social Life Documents Section"
+ },
+ {
+   "id": 220,
+   "nazwa_pl": "Gabinet Rękopisów",
+   "nazwa_en": "Manuscripts Section"
+ },
+ {
+   "id": 221,
+   "nazwa_pl": "Gabinet Starych Druków",
+   "nazwa_en": "Old Prints Section"
+ },
+ {
+   "id": 222,
+   "nazwa_pl": "Gabinet Zbiorów Graficznych",
+   "nazwa_en": "Graphic Collections Section"
+ },
+ {
+   "id": 223,
+   "nazwa_pl": "Gabinet Zbiorów Kartograficznych",
+   "nazwa_en": "Cartographic Collections Section"
+ },
+ {
+   "id": 224,
+   "nazwa_pl": "Gabinet Zbiorów Muzycznych",
+   "nazwa_en": "Music Collections Section"
+ },
+ {
+   "id": 225,
+   "nazwa_pl": "Hotel Asystencki nr 1",
+   "nazwa_en": "Employee House No. 1"
+ },
+ {
+   "id": 226,
+   "nazwa_pl": "Hotel Asystencki Nr 1",
+   "nazwa_en": "Employee House No. 1"
+ },
+ {
+   "id": 227,
+   "nazwa_pl": "Hotel Asystencki nr 2",
+   "nazwa_en": "Employee House No. 2"
+ },
+ {
+   "id": 228,
+   "nazwa_pl": "Hotel Asystencki Nr 2",
+   "nazwa_en": "Employee House No. 2"
+ },
+ {
+   "id": 229,
+   "nazwa_pl": "Hotel Uniwersytecki",
+   "nazwa_en": "University Hotel"
+ },
+ {
+   "id": 230,
+   "nazwa_pl": "Instytut Archeologii",
+   "nazwa_en": "Institute of Archaeology"
+ },
+ {
+   "id": 231,
+   "nazwa_pl": "Instytut Astronomii",
+   "nazwa_en": "Institute of Astronomy"
+ },
+ {
+   "id": 232,
+   "nazwa_pl": "Instytut Badań Informacji i Komunikacji",
+   "nazwa_en": "Institute of Information and Communication Research"
+ },
+ {
+   "id": 233,
+   "nazwa_pl": "Instytut Biologii",
+   "nazwa_en": "Institute of Biology"
+ },
+ {
+   "id": 234,
+   "nazwa_pl": "Instytut Filozofii",
+   "nazwa_en": "Institute of Philosophy"
+ },
+ {
+   "id": 235,
+   "nazwa_pl": "Instytut Fizyki",
+   "nazwa_en": "Institute of Physics"
+ },
+ {
+   "id": 236,
+   "nazwa_pl": "Instytut Historii i Archiwistyki",
+   "nazwa_en": "Institute of History and Archival Science"
+ },
+ {
+   "id": 237,
+   "nazwa_pl": "Instytut Językoznawstwa",
+   "nazwa_en": "Institute of Linguistics"
+ },
+ {
+   "id": 238,
+   "nazwa_pl": "Instytut Literaturoznawstwa",
+   "nazwa_en": "Institute of Literary Studies"
+ },
+ {
+   "id": 239,
+   "nazwa_pl": "Instytut Medycyny Weterynaryjnej",
+   "nazwa_en": "Institute of Veterinary Medicine"
+ },
+ {
+   "id": 240,
+   "nazwa_pl": "Instytut Nauk o Bezpieczeństwie",
+   "nazwa_en": "Institute of Security Studies"
+ },
+ {
+   "id": 241,
+   "nazwa_pl": "Instytut Nauk o Kulturze",
+   "nazwa_en": "Institute of Cultural Studies"
+ },
+ {
+   "id": 242,
+   "nazwa_pl": "Instytut Nauk o Polityce",
+   "nazwa_en": "Institute of Political Sciences"
+ },
+ {
+   "id": 243,
+   "nazwa_pl": "Instytut Nauk Pedagogicznych",
+   "nazwa_en": "Institute of Educational Sciences"
+ },
+ {
+   "id": 244,
+   "nazwa_pl": "Instytut Nauk Technicznych",
+   "nazwa_en": "Institute of Engineering and Technology"
+ },
+ {
+   "id": 245,
+   "nazwa_pl": "Instytut Psychologii",
+   "nazwa_en": "Institute of Psychology"
+ },
+ {
+   "id": 246,
+   "nazwa_pl": "Instytut Socjologii",
+   "nazwa_en": "Institute of Sociology"
+ },
+ {
+   "id": 247,
+   "nazwa_pl": "Interdyscyplinarna Szkoła Doktorska \"Academia Copernicana\"",
+   "nazwa_en": "Interdisciplinary Doctoral School \"Academia Copernicana\""
+ },
+ {
+   "id": 248,
+   "nazwa_pl": "Interdyscyplinarna Szkoła Doktorska Nauk Społecznych",
+   "nazwa_en": "Interdisciplinary Doctoral School of Social Sciences"
+ },
+ {
+   "id": 249,
+   "nazwa_pl": "Kancelaria",
+   "nazwa_en": "Mailroom"
+ },
+ {
+   "id": 250,
+   "nazwa_pl": "Kancelaria CM",
+   "nazwa_en": "CM Mailroom"
+ },
+ {
+   "id": 251,
+   "nazwa_pl": "Kancelaria Niejawna",
+   "nazwa_en": "Confidential Office"
+ },
+ {
+   "id": 252,
+   "nazwa_pl": "Katedra Alergologii, Immunologii Klinicznej i Chorób Wewnętrznych",
+   "nazwa_en": "Department of Allergology, Clinical Immunology and Internal Diseases"
+ },
+ {
+   "id": 253,
+   "nazwa_pl": "Katedra Algebry i Geometrii",
+   "nazwa_en": "Department of Algebra and Geometry"
+ },
+ {
+   "id": 254,
+   "nazwa_pl": "Katedra Analizy Funkcjonalnej",
+   "nazwa_en": "Department of Functional Analysis"
+ },
+ {
+   "id": 255,
+   "nazwa_pl": "Katedra Anatomii Prawidłowej",
+   "nazwa_en": "Department of Anatomy"
+ },
+ {
+   "id": 256,
+   "nazwa_pl": "Katedra Anestezjologii i Intensywnej Terapii",
+   "nazwa_en": "Department of Anaesthesiology and Intensive Care"
+ },
+ {
+   "id": 257,
+   "nazwa_pl": "Katedra Antropologii Literatury i Nowych Mediów",
+   "nazwa_en": "Department of Literary Anthropology and New Media"
+ },
+ {
+   "id": 258,
+   "nazwa_pl": "Katedra Archeologii Środowiskowej i Paleoekologii Człowieka",
+   "nazwa_en": "Department of Environmental Archaeology and Human Palaeoecology"
+ },
+ {
+   "id": 259,
+   "nazwa_pl": "Katedra Architektury Wnętrz i Rzeźby",
+   "nazwa_en": "Department of Interior Design and Sculpture"
+ },
+ {
+   "id": 260,
+   "nazwa_pl": "Katedra Archiwistyki i Zarządzania Dokumentacją",
+   "nazwa_en": "Department of Archive Studies and Records Management"
+ },
+ {
+   "id": 261,
+   "nazwa_pl": "Katedra Automatyki i Systemów Pomiarowych",
+   "nazwa_en": "Department of Automatics and Measurement Systems"
+ },
+ {
+   "id": 262,
+   "nazwa_pl": "Katedra Badania Jakości Życia i Socjologii Stosowanej",
+   "nazwa_en": "Department of Quality of Life Research and Applied Sociology"
+ },
+ {
+   "id": 263,
+   "nazwa_pl": "Katedra Badania Narządów Zmysłów",
+   "nazwa_en": "Department of Sense Organ Research"
+ },
+ {
+   "id": 264,
+   "nazwa_pl": "Katedra Badań Kultury",
+   "nazwa_en": "Department of Cultural Studies"
+ },
+ {
+   "id": 265,
+   "nazwa_pl": "Katedra Badań nad Nauką i Szkolnictwem Wyższym",
+   "nazwa_en": "Department of Science and Higher Education Research"
+ },
+ {
+   "id": 266,
+   "nazwa_pl": "Katedra Badań Przestrzeni Informacyjnej",
+   "nazwa_en": "Department of Information Space Research"
+ },
+ {
+   "id": 267,
+   "nazwa_pl": "Katedra Balneologii i Medycyny Fizykalnej",
+   "nazwa_en": "Department of Balneology and Physical Medicine"
+ },
+ {
+   "id": 268,
+   "nazwa_pl": "Katedra Bałkanistyki",
+   "nazwa_en": "Department of Balkan Studies"
+ },
+ {
+   "id": 269,
+   "nazwa_pl": "Katedra Bezpieczeństwa Międzynarodowego",
+   "nazwa_en": "Department of International Security"
+ },
+ {
+   "id": 270,
+   "nazwa_pl": "Katedra Bezpieczeństwa Narodowego",
+   "nazwa_en": "Department of National Security"
+ },
+ {
+   "id": 271,
+   "nazwa_pl": "Katedra Bezpieczeństwa Społecznego i Kulturowego",
+   "nazwa_en": "Department of Social and Cultural Security"
+ },
+ {
+   "id": 272,
+   "nazwa_pl": "Katedra Bezpieczeństwa Wewnętrznego",
+   "nazwa_en": "Department of National Security"
+ },
+ {
+   "id": 273,
+   "nazwa_pl": "Katedra Biochemii",
+   "nazwa_en": "Department of Biochemistry"
+ },
+ {
+   "id": 274,
+   "nazwa_pl": "Katedra Biochemii Klinicznej",
+   "nazwa_en": "Department of Clinical Biochemistry"
+ },
+ {
+   "id": 275,
+   "nazwa_pl": "Katedra Biofarmacji",
+   "nazwa_en": "Department of Biopharmacy"
+ },
+ {
+   "id": 276,
+   "nazwa_pl": "Katedra Biofizyki",
+   "nazwa_en": "Department of Biophysics"
+ },
+ {
+   "id": 277,
+   "nazwa_pl": "Katedra Biofizyki",
+   "nazwa_en": "Department of Biophysics"
+ },
+ {
+   "id": 278,
+   "nazwa_pl": "Katedra Biofotoniki i Inżynierii Optycznej",
+   "nazwa_en": "Department of Biophotonics and Optical Engineering"
+ },
+ {
+   "id": 279,
+   "nazwa_pl": "Katedra Biologii Człowieka",
+   "nazwa_en": "Department of Human Biology"
+ },
+ {
+   "id": 280,
+   "nazwa_pl": "Katedra Biologii i Biochemii Medycznej",
+   "nazwa_en": "Department of Medical Biology and Biochemistry"
+ },
+ {
+   "id": 281,
+   "nazwa_pl": "Katedra Biologii Komórkowej i Molekularnej",
+   "nazwa_en": "Department of Cellular and Molecular Biology"
+ },
+ {
+   "id": 282,
+   "nazwa_pl": "Katedra Biostatystyki i Teorii Układów Biomedycznych",
+   "nazwa_en": "Department of Biostatistics and Biomedical Systems Theory"
+ },
+ {
+   "id": 283,
+   "nazwa_pl": "Katedra Botaniki Farmaceutycznej i Farmakognozji",
+   "nazwa_en": "Department of Pharmaceutical Botany and Pharmacognosy"
+ },
+ {
+   "id": 284,
+   "nazwa_pl": "Katedra Chemii Analitycznej i Spektroskopii Stosowanej",
+   "nazwa_en": "Department of Analytical Chemistry and Applied Spectroscopy"
+ },
+ {
+   "id": 285,
+   "nazwa_pl": "Katedra Chemii Biomateriałów i Kosmetyków",
+   "nazwa_en": "Department of Biomaterials and Cosmetic Chemistry"
+ },
+ {
+   "id": 286,
+   "nazwa_pl": "Katedra Chemii Biomedycznej i Polimerów",
+   "nazwa_en": "Department of Biomedical and Polymer Chemistry"
+ },
+ {
+   "id": 287,
+   "nazwa_pl": "Katedra Chemii Fizycznej",
+   "nazwa_en": "Department of Physical Chemistry"
+ },
+ {
+   "id": 288,
+   "nazwa_pl": "Katedra Chemii Fizycznej i Fizykochemii Polimerów",
+   "nazwa_en": "Department of Physical Chemistry and Polymer Physical Chemistry"
+ },
+ {
+   "id": 289,
+   "nazwa_pl": "Katedra Chemii Kwantowej i Spektroskopii",
+   "nazwa_en": "Department of Quantum Chemistry and Atomic Spectroscopy"
+ },
+ {
+   "id": 290,
+   "nazwa_pl": "Katedra Chemii Leków",
+   "nazwa_en": "Department of Medicinal Chemistry"
+ },
+ {
+   "id": 291,
+   "nazwa_pl": "Katedra Chemii Materiałów, Adsorpcji i Katalizy",
+   "nazwa_en": "Department of Materials Chemistry, Adsorption and Catalysis"
+ },
+ {
+   "id": 292,
+   "nazwa_pl": "Katedra Chemii Nieorganicznej i Analitycznej",
+   "nazwa_en": "Department of Inorganic and Analytical Chemistry"
+ },
+ {
+   "id": 293,
+   "nazwa_pl": "Katedra Chemii Nieorganicznej i Koordynacyjnej",
+   "nazwa_en": "Department of Inorganic and Coordination Chemistry"
+ },
+ {
+   "id": 294,
+   "nazwa_pl": "Katedra Chemii Organicznej",
+   "nazwa_en": "Department of Organic Chemistry"
+ },
+ {
+   "id": 295,
+   "nazwa_pl": "Katedra Chemii Organicznej",
+   "nazwa_en": "Department of Organic Chemistry"
+ },
+ {
+   "id": 296,
+   "nazwa_pl": "Katedra Chemii Środowiska i Bioanalityki",
+   "nazwa_en": "Department of Environmental Chemistry and Bioanalysis"
+ },
+ {
+   "id": 297,
+   "nazwa_pl": "Katedra Chirurgii Klatki Piersiowej i Nowotworów",
+   "nazwa_en": "Department of Thoracic and Tumour Surgery"
+ },
+ {
+   "id": 298,
+   "nazwa_pl": "Katedra Chirurgii Naczyniowej i Angiologii",
+   "nazwa_en": "Department of Vascular Surgery and Angiology"
+ },
+ {
+   "id": 299,
+   "nazwa_pl": "Katedra Chirurgii Ogólnej i Małoinwazyjnej",
+   "nazwa_en": "Department of General and Minimally Invasive Surgery"
+ },
+ {
+   "id": 300,
+   "nazwa_pl": "Katedra Chirurgii Ogólnej, Chirurgii Wątroby i Chirurgii Transplantacy",
+   "nazwa_en": "Department of General, Hepatobiliary and Transplant Surgery"
+ },
+ {
+   "id": 301,
+   "nazwa_pl": "Katedra Chirurgii Ogólnej, Gastroenterologicznej i Onkologicznej ",
+   "nazwa_en": "Department of General, Gastroenterological and Oncological Surgery"
+ },
+ {
+   "id": 302,
+   "nazwa_pl": "Katedra Chirurgii Onkologicznej",
+   "nazwa_en": "Department of Oncological Surgery"
+ },
+ {
+   "id": 303,
+   "nazwa_pl": "Katedra Chirurgii Onkologicznej",
+   "nazwa_en": "Department of Oncological Surgery"
+ },
+ {
+   "id": 304,
+   "nazwa_pl": "Katedra Chirurgii Plastycznej",
+   "nazwa_en": "Department of Plastic Surgery"
+ },
+ {
+   "id": 305,
+   "nazwa_pl": "Katedra Chirurgii Weterynaryjnej",
+   "nazwa_en": "Department of Veterinary Surgery"
+ },
+ {
+   "id": 306,
+   "nazwa_pl": "Katedra Chorób Naczyń i Chorób Wewnętrznych",
+   "nazwa_en": "Department of Vascular and Internal Diseases"
+ },
+ {
+   "id": 307,
+   "nazwa_pl": "Katedra Chorób Oczu",
+   "nazwa_en": "Department of Ophthalmology"
+ },
+ {
+   "id": 308,
+   "nazwa_pl": "Katedra Chorób Płuc, Nowotworów i Gruźlicy",
+   "nazwa_en": "Department of Lung Diseases, Neoplasms and Tuberculosis"
+ },
+ {
+   "id": 309,
+   "nazwa_pl": "Katedra Chorób Wieku Rozwojowego",
+   "nazwa_en": "Department of Developmental Age Diseases"
+ },
+ {
+   "id": 310,
+   "nazwa_pl": "Katedra Chorób Zakaźnych i Hepatologii",
+   "nazwa_en": "Department of Infectious Diseases and Hepatology"
+ },
+ {
+   "id": 311,
+   "nazwa_pl": "Katedra Chorób Zakaźnych i Inwazyjnych oraz Administracji Weterynaryjn",
+   "nazwa_en": "Department of Infectious and Invasive Diseases and Veterinary Administ"
+ },
+ {
+   "id": 312,
+   "nazwa_pl": "Katedra Dermatologii i Wenerologii",
+   "nazwa_en": "Department of Dermatology and Venereology"
+ },
+ {
+   "id": 313,
+   "nazwa_pl": "Katedra Diagnostyki i Nauk Klinicznych",
+   "nazwa_en": "Department of Diagnostics and Clinical Sciences"
+ },
+ {
+   "id": 314,
+   "nazwa_pl": "Katedra Diagnostyki Laboratoryjnej",
+   "nazwa_en": "Department of Laboratory Medicine"
+ },
+ {
+   "id": 315,
+   "nazwa_pl": "Katedra Diagnostyki Obrazowej",
+   "nazwa_en": "Department of Diagnostic Imaging"
+ },
+ {
+   "id": 316,
+   "nazwa_pl": "Katedra Doskonałości Biznesowej",
+   "nazwa_en": "Department of Business Excellence"
+ },
+ {
+   "id": 317,
+   "nazwa_pl": "Katedra Dydaktyki Fizyki",
+   "nazwa_en": "Department of Physics Education"
+ },
+ {
+   "id": 318,
+   "nazwa_pl": "Katedra Dydaktyki i Mediów",
+   "nazwa_en": "Department of Education and Media"
+ },
+ {
+   "id": 319,
+   "nazwa_pl": "Katedra Edukacji Wczesnej i Obywatelskiej",
+   "nazwa_en": "Department of Early Childhood and Civic Education"
+ },
+ {
+   "id": 320,
+   "nazwa_pl": "Katedra Edukacji Wizualnej i Badań nad Sztuką",
+   "nazwa_en": "Department of Visual Education and Arts Research"
+ },
+ {
+   "id": 321,
+   "nazwa_pl": "Katedra Edytorstwa i Literatury Polskiej",
+   "nazwa_en": "Department of Editing, Publishing and Polish Literature"
+ },
+ {
+   "id": 322,
+   "nazwa_pl": "Katedra Ekologii i Biogeografii",
+   "nazwa_en": "Department of Ecology and Biogeography"
+ },
+ {
+   "id": 323,
+   "nazwa_pl": "Katedra Ekologii Społecznej",
+   "nazwa_en": "Department of Social Ecology"
+ },
+ {
+   "id": 324,
+   "nazwa_pl": "Katedra Ekonometrii i Statystyki",
+   "nazwa_en": "Department of Econometrics and Statistics"
+ },
+ {
+   "id": 325,
+   "nazwa_pl": "Katedra Ekonomii",
+   "nazwa_en": "Department of Economics"
+ },
+ {
+   "id": 326,
+   "nazwa_pl": "Katedra Ekonomiki Zdrowia",
+   "nazwa_en": "Department of Health Economics"
+ },
+ {
+   "id": 327,
+   "nazwa_pl": "Katedra Endokrynologii i Diabetologii",
+   "nazwa_en": "Department of Endocrinology and Diabetology"
+ },
+ {
+   "id": 328,
+   "nazwa_pl": "Katedra Etnologii i Antropologii Kulturowej",
+   "nazwa_en": "Department of Ethnology and Cultural Anthropology"
+ },
+ {
+   "id": 329,
+   "nazwa_pl": "Katedra Farmakodynamiki i Farmakologii Molekularnej",
+   "nazwa_en": "Department of Pharmacodynamics and Molecular Pharmacology"
+ },
+ {
+   "id": 330,
+   "nazwa_pl": "Katedra Farmakologii i Terapii",
+   "nazwa_en": "Department of Clinical Pharmacology"
+ },
+ {
+   "id": 331,
+   "nazwa_pl": "Katedra Filologii Klasycznej",
+   "nazwa_en": "Department of Classical Studies"
+ },
+ {
+   "id": 332,
+   "nazwa_pl": "Katedra Filozofii Chrześcijańskiej",
+   "nazwa_en": "Department of Christian Philosophy"
+ },
+ {
+   "id": 333,
+   "nazwa_pl": "Katedra Filozofii i Teorii Polityki",
+   "nazwa_en": "Department of Political Philosophy and Political Theory"
+ },
+ {
+   "id": 334,
+   "nazwa_pl": "Katedra Filozofii Praktycznej",
+   "nazwa_en": "Department of Practical Philosophy"
+ },
+ {
+   "id": 335,
+   "nazwa_pl": "Katedra Filozofii Społecznej",
+   "nazwa_en": "Department of Social Philosophy"
+ },
+ {
+   "id": 336,
+   "nazwa_pl": "Katedra Fizjologii Człowieka",
+   "nazwa_en": "Department of Human Physiology"
+ },
+ {
+   "id": 337,
+   "nazwa_pl": "Katedra Fizjologii Roślin i Biotechnologii",
+   "nazwa_en": "Department of Plant Physiology and Biotechnology"
+ },
+ {
+   "id": 338,
+   "nazwa_pl": "Katedra Fizjologii Wysiłku Fizycznego i Anatomii Funkcjonalnej",
+   "nazwa_en": "Department of Exercise Physiology and Functional Anatomy"
+ },
+ {
+   "id": 339,
+   "nazwa_pl": "Katedra Fizjologii Zwierząt i Neurobiologii",
+   "nazwa_en": "Department of Animal Physiology and Neurobiology"
+ },
+ {
+   "id": 340,
+   "nazwa_pl": "Katedra Fizjoterapii",
+   "nazwa_en": "Department of Physiotherapy"
+ },
+ {
+   "id": 341,
+   "nazwa_pl": "Katedra Fizyki Atomowej, Molekularnej i Optycznej",
+   "nazwa_en": "Department of Atomic, Molecular and Optical Physics"
+ },
+ {
+   "id": 342,
+   "nazwa_pl": "Katedra Fizyki Matematycznej",
+   "nazwa_en": "Department of Mathematical Physics"
+ },
+ {
+   "id": 343,
+   "nazwa_pl": "Katedra Fizyki Stosowanej",
+   "nazwa_en": "Department of Applied Physics"
+ },
+ {
+   "id": 344,
+   "nazwa_pl": "Katedra Gastroenterologii i Zaburzeń Odżywiania",
+   "nazwa_en": "Department of Gastroenterology and Nutrition Disorders"
+ },
+ {
+   "id": 345,
+   "nazwa_pl": "Katedra Genetyki",
+   "nazwa_en": "Department of Genetics"
+ },
+ {
+   "id": 346,
+   "nazwa_pl": "Katedra Genetyki Klinicznej",
+   "nazwa_en": "Department of Clinical Genetics"
+ },
+ {
+   "id": 347,
+   "nazwa_pl": "Katedra Geobotaniki i Planowania Krajobrazu",
+   "nazwa_en": "Department of Geobotany and Landscape Planning"
+ },
+ {
+   "id": 348,
+   "nazwa_pl": "Katedra Geologii i Hydrogeologii",
+   "nazwa_en": "Department of Geology and Hydrogeology"
+ },
+ {
+   "id": 349,
+   "nazwa_pl": "Katedra Geomatyki i Kartografii",
+   "nazwa_en": "Department of Geomatics and Cartography"
+ },
+ {
+   "id": 350,
+   "nazwa_pl": "Katedra Geomorfologii i Paleogeografii Czwartorzędu",
+   "nazwa_en": "Department of Geomorphology and Quaternary Paleogeography"
+ },
+ {
+   "id": 351,
+   "nazwa_pl": "Katedra Geriatrii",
+   "nazwa_en": "Department of Geriatrics"
+ },
+ {
+   "id": 352,
+   "nazwa_pl": "Katedra Gleboznawstwa i Kształtowania Krajobrazu",
+   "nazwa_en": "Department of Soil Science and Landscape Management"
+ },
+ {
+   "id": 353,
+   "nazwa_pl": "Katedra Gospodarki i Finansów Cyfrowych",
+   "nazwa_en": "Department of Digital Economy and Finance"
+ },
+ {
+   "id": 354,
+   "nazwa_pl": "Katedra Gospodarki Przestrzennej i Turyzmu",
+   "nazwa_en": "Department of Spatial Planning and Tourism"
+ },
+ {
+   "id": 355,
+   "nazwa_pl": "Katedra Gospodarowania Zasobami Pracy",
+   "nazwa_en": "Department of Human Resource Management"
+ },
+ {
+   "id": 356,
+   "nazwa_pl": "Katedra Grafiki",
+   "nazwa_en": "Department of Graphic Arts"
+ },
+ {
+   "id": 357,
+   "nazwa_pl": "Katedra Hematologii",
+   "nazwa_en": "Department of Haematology"
+ },
+ {
+   "id": 358,
+   "nazwa_pl": "Katedra Higieny, Epidemiologii, Ergonomii i Kształcenia Podyplomowego",
+   "nazwa_en": "Department of Hygiene, Epidemiology, Ergonomics and Postgraduate Educa"
+ },
+ {
+   "id": 359,
+   "nazwa_pl": "Katedra Histologii i Embriologii",
+   "nazwa_en": "Department of Histology and Embryology"
+ },
+ {
+   "id": 360,
+   "nazwa_pl": "Katedra Historii Doktryn Polityczno-Prawnych i Prawa Niemieckiego",
+   "nazwa_en": "Department of History of Political and Legal Doctrines and History of "
+ },
+ {
+   "id": 361,
+   "nazwa_pl": "Katedra Historii Filozofii, Filozofii Systematycznej i Etyki",
+   "nazwa_en": "Department of History of Philosophy, Systematic Philosophy and Ethics"
+ },
+ {
+   "id": 362,
+   "nazwa_pl": "Katedra Historii Literatury Polskiej i Tradycji Kulturowej",
+   "nazwa_en": "Department of History of Polish Literature and Cultural Tradition"
+ },
+ {
+   "id": 363,
+   "nazwa_pl": "Katedra Historii Nauk Pedagogicznych",
+   "nazwa_en": "Department of History of Educational Sciences"
+ },
+ {
+   "id": 364,
+   "nazwa_pl": "Katedra Historii Nowożytnej i Edytorstwa Źródeł",
+   "nazwa_en": "Department of Early Modern History and Source Editing"
+ },
+ {
+   "id": 365,
+   "nazwa_pl": "Katedra Historii Skandynawii i Europy Środkowo-Wschodniej",
+   "nazwa_en": "Department of History of Scandinavia and East-central Europe"
+ },
+ {
+   "id": 366,
+   "nazwa_pl": "Katedra Historii Starożytnej i Bizancjum",
+   "nazwa_en": "Department of Ancient and Byzantine History"
+ },
+ {
+   "id": 367,
+   "nazwa_pl": "Katedra Historii Sztuki i Kultury",
+   "nazwa_en": "Department of History of Art and Culture"
+ },
+ {
+   "id": 368,
+   "nazwa_pl": "Katedra Historii Sztuki Nowoczesnej i Pozaeuropejskiej",
+   "nazwa_en": "Department of History of Modern and Non-european Art"
+ },
+ {
+   "id": 369,
+   "nazwa_pl": "Katedra Historii Sztuki XX w. w Europie Środkowej i na Emigracji",
+   "nazwa_en": "Department of 20th Century Art in Central Europe and in Exile"
+ },
+ {
+   "id": 370,
+   "nazwa_pl": "Katedra Historii Średniowiecza i Nauk Pomocniczych Historii",
+   "nazwa_en": "Department of Mediaeval History and Auxiliary Sciences of History"
+ },
+ {
+   "id": 371,
+   "nazwa_pl": "Katedra Historii Wojskowej",
+   "nazwa_en": "Department of Military History"
+ },
+ {
+   "id": 372,
+   "nazwa_pl": "Katedra Historii XIX-XX Wieku i Historii Najnowszej",
+   "nazwa_en": "Department of 19-20th Century and Contemporary History"
+ },
+ {
+   "id": 373,
+   "nazwa_pl": "Katedra Hydrologii i Gospodarki Wodnej",
+   "nazwa_en": "Department of Hydrology and Water Management"
+ },
+ {
+   "id": 374,
+   "nazwa_pl": "Katedra Immunologii",
+   "nazwa_en": "Department of Immunology"
+ },
+ {
+   "id": 376,
+   "nazwa_pl": "Katedra Informatyki",
+   "nazwa_en": "Department of Computer Science"
+ },
+ {
+   "id": 377,
+   "nazwa_pl": "Katedra Informatyki Stosowanej",
+   "nazwa_en": "Department of Informatics"
+ },
+ {
+   "id": 378,
+   "nazwa_pl": "Katedra Intermediów",
+   "nazwa_en": "Department of Intermedia Art"
+ },
+ {
+   "id": 379,
+   "nazwa_pl": "Katedra Inwestycji i Nieruchomości",
+   "nazwa_en": "Department of Investment and Real Estate"
+ },
+ {
+   "id": 380,
+   "nazwa_pl": "Katedra Języka Angielskiego i Językoznawstwa Stosowanego",
+   "nazwa_en": "Department of English and Applied Linguistics"
+ },
+ {
+   "id": 381,
+   "nazwa_pl": "Katedra Języka Niemieckiego, Japońskiego i Translatoryki",
+   "nazwa_en": "Department of German and Japanese Linguistics and Translation Studies"
+ },
+ {
+   "id": 382,
+   "nazwa_pl": "Katedra Języka Polskiego",
+   "nazwa_en": "Department of Polish Linguistics"
+ },
+ {
+   "id": 383,
+   "nazwa_pl": "Katedra Językoznawstwa Eksperymentalnego",
+   "nazwa_en": "Department of Experimental Linguistics"
+ },
+ {
+   "id": 384,
+   "nazwa_pl": "Katedra Języków Romańskich",
+   "nazwa_en": "Department of Romance Linguistics"
+ },
+ {
+   "id": 385,
+   "nazwa_pl": "Katedra Języków Słowiańskich",
+   "nazwa_en": "Department of Slavic Linguistics"
+ },
+ {
+   "id": 386,
+   "nazwa_pl": "Katedra Kardiochirurgii",
+   "nazwa_en": "Department of Cardiac Surgery"
+ },
+ {
+   "id": 387,
+   "nazwa_pl": "Katedra Kardiologii i Chorób Wewnętrznych",
+   "nazwa_en": "Department of Cardiology and Internal Diseases"
+ },
+ {
+   "id": 388,
+   "nazwa_pl": "Katedra Kardiologii i Farmakologii Klinicznej",
+   "nazwa_en": "Department of Cardiology and Clinical Pharmacology"
+ },
+ {
+   "id": 389,
+   "nazwa_pl": "Katedra Kognitywistyki",
+   "nazwa_en": "Department of Cognitive Science"
+ },
+ {
+   "id": 390,
+   "nazwa_pl": "Katedra Kombinatoryki i Obliczeń Symbolicznych",
+   "nazwa_en": "Department of Combinatorics and Symbolic Computation"
+ },
+ {
+   "id": 391,
+   "nazwa_pl": "Katedra Komunikacji, Mediów i Dziennikarstwa",
+   "nazwa_en": "Department of Communication, Media and Journalism"
+ },
+ {
+   "id": 392,
+   "nazwa_pl": "Katedra Konserwacji-Restauracji Architektury i Rzeźby",
+   "nazwa_en": "Department of Conservation and Restoration of Architecture and Sculptu"
+ },
+ {
+   "id": 393,
+   "nazwa_pl": "Katedra Konserwacji-Restauracji Malarstwa i Rzeźby Polichromowanej",
+   "nazwa_en": "Department of Conservation and Restoration of Paintings and Polychrome"
+ },
+ {
+   "id": 394,
+   "nazwa_pl": "Katedra Konserwacji-Restauracji Papieru i Skóry",
+   "nazwa_en": "Department of Conservation and Restoration of Paper and Parchment"
+ },
+ {
+   "id": 395,
+   "nazwa_pl": "Katedra Konserwacji-Restauracji Sztuki Nowoczesnej i Współczesnej",
+   "nazwa_en": "Department of Conservation and Restoration of Modern and Contemporary "
+ },
+ {
+   "id": 396,
+   "nazwa_pl": "Katedra Konserwatorstwa",
+   "nazwa_en": "Department of Art Conservation"
+ },
+ {
+   "id": 397,
+   "nazwa_pl": "Katedra Kosmetologii i Dermatologii Estetycznej",
+   "nazwa_en": "Department of Cosmetology and Aesthetic Dermatology"
+ },
+ {
+   "id": 398,
+   "nazwa_pl": "Katedra Kulturoznawstwa",
+   "nazwa_en": "Department of Cultural Studies"
+ },
+ {
+   "id": 399,
+   "nazwa_pl": "Katedra Kultury Fizycznej",
+   "nazwa_en": "Department of Physical Culture"
+ },
+ {
+   "id": 400,
+   "nazwa_pl": "Katedra Literatur Słowiańskich",
+   "nazwa_en": "Department of Slavonic Literatures"
+ },
+ {
+   "id": 401,
+   "nazwa_pl": "Katedra Literaturoznawcza Filologii Romańskiej",
+   "nazwa_en": "Department of Romance Literary Studies"
+ },
+ {
+   "id": 402,
+   "nazwa_pl": "Katedra Literatury Amerykańskiej i Przekładu Literackiego",
+   "nazwa_en": "Department of American Literature and Literary Translation"
+ },
+ {
+   "id": 403,
+   "nazwa_pl": "Katedra Literatury i Kultury Krajów Niemieckojęzycznych XIX - XXI Wiek",
+   "nazwa_en": "Department of Literature and Culture of the German-speaking Countries "
+ },
+ {
+   "id": 404,
+   "nazwa_pl": "Katedra Literatury Włoskiej i Hiszpańskojęzycznej",
+   "nazwa_en": "Department of Italian Literature and Literatures in Spanish"
+ },
+ {
+   "id": 405,
+   "nazwa_pl": "Katedra Literatury, Kultury i Komparatystyki Anglojęzycznej",
+   "nazwa_en": "Department of Anglophone Literature, Culture and Comparative Studies"
+ },
+ {
+   "id": 406,
+   "nazwa_pl": "Katedra Literatury, Kultury i Mediów Niemieckiego Obszaru Językowego",
+   "nazwa_en": "Department of Literature, Culture and Media of German-speaking Countri"
+ },
+ {
+   "id": 407,
+   "nazwa_pl": "Katedra Logiki",
+   "nazwa_en": "Department of Logic"
+ },
+ {
+   "id": 408,
+   "nazwa_pl": "Katedra Logistyki",
+   "nazwa_en": "Department of Logistics"
+ },
+ {
+   "id": 409,
+   "nazwa_pl": "Katedra Malarstwa",
+   "nazwa_en": "Department of Painting"
+ },
+ {
+   "id": 410,
+   "nazwa_pl": "Katedra Mechaniki Kwantowej",
+   "nazwa_en": "Department of Quantum Physics"
+ },
+ {
+   "id": 411,
+   "nazwa_pl": "Katedra Mediów Drukowanych i Cyfrowych",
+   "nazwa_en": "Department of Print and Digital Media"
+ },
+ {
+   "id": 412,
+   "nazwa_pl": "Katedra Medycyny Ratunkowej",
+   "nazwa_en": "Department of Emergency Medicine"
+ },
+ {
+   "id": 413,
+   "nazwa_pl": "Katedra Medycyny Rodzinnej",
+   "nazwa_en": "Department of Family Medicine"
+ },
+ {
+   "id": 414,
+   "nazwa_pl": "Katedra Medycyny Sądowej",
+   "nazwa_en": "Department of Forensic Medicine"
+ },
+ {
+   "id": 415,
+   "nazwa_pl": "Katedra Meteorologii i Klimatologii",
+   "nazwa_en": "Department of Meteorology and Climatology"
+ },
+ {
+   "id": 416,
+   "nazwa_pl": "Katedra Metodologii, Dydaktyki i Historii Kultury",
+   "nazwa_en": "Department of Methodology, Education and History of Culture"
+ },
+ {
+   "id": 417,
+   "nazwa_pl": "Katedra Mikrobiologii",
+   "nazwa_en": "Department of Microbiology"
+ },
+ {
+   "id": 419,
+   "nazwa_pl": "Katedra Mikrobiologii Środowiskowej i Biotechnologii",
+   "nazwa_en": "Department of Environmental Microbiology and Biotechnology"
+ },
+ {
+   "id": 420,
+   "nazwa_pl": "Katedra Myśli Politycznej",
+   "nazwa_en": "Department of Political Thought"
+ },
+ {
+   "id": 421,
+   "nazwa_pl": "Katedra Nanofotoniki",
+   "nazwa_en": "Department of Nanophotonics"
+ },
+ {
+   "id": 422,
+   "nazwa_pl": "Katedra Nauk Podstawowych i Przedklinicznych",
+   "nazwa_en": "Department of Fundamental and Preclinical Sciences"
+ },
+ {
+   "id": 423,
+   "nazwa_pl": "Katedra Nauk Społecznych",
+   "nazwa_en": "Department of Social Sciences"
+ },
+ {
+   "id": 424,
+   "nazwa_pl": "Katedra Nauk Społecznych i Medycznych",
+   "nazwa_en": "Department of Social and Medical Sciences"
+ },
+ {
+   "id": 425,
+   "nazwa_pl": "Katedra Nauk Społecznych i Prawa Kanonicznego",
+   "nazwa_en": "Department of Social Sciences and Canon Law"
+ },
+ {
+   "id": 426,
+   "nazwa_pl": "Katedra Nefrologii, Nadciśnienia Tętniczego i Chorób Wewnętrznych",
+   "nazwa_en": "Department of Nephrology, Hypertension and Internal Diseases"
+ },
+ {
+   "id": 427,
+   "nazwa_pl": "Katedra Neonatologii",
+   "nazwa_en": "Department of Neonatology"
+ },
+ {
+   "id": 428,
+   "nazwa_pl": "Katedra Neurochirurgii",
+   "nazwa_en": "Department of Neurosurgery"
+ },
+ {
+   "id": 429,
+   "nazwa_pl": "Katedra Neurochirurgii i Neurologii",
+   "nazwa_en": "Department of Neurosurgery and Neurology"
+ },
+ {
+   "id": 430,
+   "nazwa_pl": "Katedra Neurologii",
+   "nazwa_en": "Department of Neurology"
+ },
+ {
+   "id": 431,
+   "nazwa_pl": "Katedra Neuropsychologii Klinicznej",
+   "nazwa_en": "Department of Clinical Neuropsychology"
+ },
+ {
+   "id": 432,
+   "nazwa_pl": "Katedra Nieliniowej Analizy Matematycznej",
+   "nazwa_en": "Department of Nonlinear Mathematical Analysis"
+ },
+ {
+   "id": 433,
+   "nazwa_pl": "Katedra Ochrony Zdrowia Publicznego i Dobrostanu Zwierząt",
+   "nazwa_en": "Department of Public Health Protection and Animal Welfare"
+ },
+ {
+   "id": 434,
+   "nazwa_pl": "Katedra Onkologii",
+   "nazwa_en": "Department of Oncology"
+ },
+ {
+   "id": 435,
+   "nazwa_pl": "Katedra Onkologii i Brachyterapii",
+   "nazwa_en": "Department of Oncology and Brachytherapy"
+ },
+ {
+   "id": 436,
+   "nazwa_pl": "Katedra Opieki Paliatywnej",
+   "nazwa_en": "Department of Palliative Care"
+ },
+ {
+   "id": 437,
+   "nazwa_pl": "Katedra Orientalistyki",
+   "nazwa_en": "Department of Oriental Studies"
+ },
+ {
+   "id": 438,
+   "nazwa_pl": "Katedra Ortopedii i Traumatologii Narządów Ruchu",
+   "nazwa_en": "Department of Orthopaedics and Musculoskeletal Trauma Surgery"
+ },
+ {
+   "id": 439,
+   "nazwa_pl": "Katedra Ortopedii, Traumatologii i Chirurgii Plastycznej",
+   "nazwa_en": "Department of Orthopedics, Traumatology and Plastic Surgery"
+ },
+ {
+   "id": 440,
+   "nazwa_pl": "Katedra Otolaryngologii i Onkologii Laryngologicznej",
+   "nazwa_en": "Department of Otolaryngology and Oncology"
+ },
+ {
+   "id": 441,
+   "nazwa_pl": "Katedra Otolaryngologii, Foniatrii i Audiologii",
+   "nazwa_en": "Department of Otolaryngology, Phoniatrics and Audiology"
+ },
+ {
+   "id": 442,
+   "nazwa_pl": "Katedra Patobiochemii i Chemii Klinicznej",
+   "nazwa_en": "Department of Pathobiochemistry and Clinical Chemistry"
+ },
+ {
+   "id": 443,
+   "nazwa_pl": "Katedra Patofizjologii",
+   "nazwa_en": "Department of Pathophysiology"
+ },
+ {
+   "id": 444,
+   "nazwa_pl": "Katedra Patomorfologii Klinicznej",
+   "nazwa_en": "Department of Pathology"
+ },
+ {
+   "id": 445,
+   "nazwa_pl": "Katedra Pedagogiki Funkcjonalnej",
+   "nazwa_en": "Department of Functional Pedagogy"
+ },
+ {
+   "id": 446,
+   "nazwa_pl": "Katedra Pedagogiki Społecznej i Pracy Socjalnej",
+   "nazwa_en": "Department of Social Pedagogy and Social Work"
+ },
+ {
+   "id": 447,
+   "nazwa_pl": "Katedra Pedagogiki Szkolnej",
+   "nazwa_en": "Department of School Education"
+ },
+ {
+   "id": 448,
+   "nazwa_pl": "Katedra Pediatrii, Alergologii i Gastroenterologii",
+   "nazwa_en": "Department of Paediatrics, Allergology and Gastroenterology"
+ },
+ {
+   "id": 449,
+   "nazwa_pl": "Katedra Pediatrii, Hematologii i Onkologii",
+   "nazwa_en": "Department of Paediatrics, Haematology and Oncology"
+ },
+ {
+   "id": 450,
+   "nazwa_pl": "Katedra Perinatologii, Ginekologii i Ginekologii Onkologicznej",
+   "nazwa_en": "Department of Perinatology, Gynaecology and Gynaecologic Oncology"
+ },
+ {
+   "id": 451,
+   "nazwa_pl": "Katedra Pielęgniarstwa Zabiegowego",
+   "nazwa_en": "Department of Perioperative Nursing"
+ },
+ {
+   "id": 452,
+   "nazwa_pl": "Katedra Pielęgniarstwa Zachowawczego",
+   "nazwa_en": "Department of Preventive Nursing"
+ },
+ {
+   "id": 453,
+   "nazwa_pl": "Katedra Podstaw Prawa Medycznego",
+   "nazwa_en": "Department of Principles of Medical Law"
+ },
+ {
+   "id": 454,
+   "nazwa_pl": "Katedra Podstaw Umiejętności Klinicznych i Kształcenia Podyplomowego P",
+   "nazwa_en": "Department of Basic Clinical Skills and Postgraduate Education for Nur"
+ },
+ {
+   "id": 455,
+   "nazwa_pl": "Katedra Polityki Ekonomicznej i Studiów Regionalnych",
+   "nazwa_en": "Department of Economic Policy and Regional Studies"
+ },
+ {
+   "id": 456,
+   "nazwa_pl": "Katedra Położnictwa",
+   "nazwa_en": "Department of Midwifery"
+ },
+ {
+   "id": 457,
+   "nazwa_pl": "Katedra Położnictwa, Chorób Kobiecych i Ginekologii Onkologicznej",
+   "nazwa_en": "Department of Obstetrics, Gynaecology and Oncology"
+ },
+ {
+   "id": 458,
+   "nazwa_pl": "Katedra Postępowania Karnego i Kryminalistyki",
+   "nazwa_en": "Department of Criminal Procedure and Criminalistics"
+ },
+ {
+   "id": 459,
+   "nazwa_pl": "Katedra Prahistorii",
+   "nazwa_en": "Department of Prehistory"
+ },
+ {
+   "id": 460,
+   "nazwa_pl": "Katedra Praw Człowieka",
+   "nazwa_en": "Department of Human Rights"
+ },
+ {
+   "id": 461,
+   "nazwa_pl": "Katedra Prawa Administracyjnego",
+   "nazwa_en": "Department of Administrative Law"
+ },
+ {
+   "id": 462,
+   "nazwa_pl": "Katedra Prawa Cywilnego",
+   "nazwa_en": "Department of Civil Law"
+ },
+ {
+   "id": 463,
+   "nazwa_pl": "Katedra Prawa Finansów Publicznych",
+   "nazwa_en": "Department of Public Finance Law"
+ },
+ {
+   "id": 464,
+   "nazwa_pl": "Katedra Prawa Handlowego, Morskiego i Postępowania Cywilnego",
+   "nazwa_en": "Department of Commercial Law, Maritime Law and Civil Procedure"
+ },
+ {
+   "id": 465,
+   "nazwa_pl": "Katedra Prawa Karnego",
+   "nazwa_en": "Department of Criminal Law"
+ },
+ {
+   "id": 466,
+   "nazwa_pl": "Katedra Prawa Konstytucyjnego",
+   "nazwa_en": "Department of Constitutional Law"
+ },
+ {
+   "id": 467,
+   "nazwa_pl": "Katedra Prawa Międzynarodowego i Europejskiego",
+   "nazwa_en": "Department of International and European Law"
+ },
+ {
+   "id": 468,
+   "nazwa_pl": "Katedra Prawa Ochrony Środowiska i Publicznego Prawa Gospodarczego",
+   "nazwa_en": "Department of Environmental and Public Economic Law"
+ },
+ {
+   "id": 469,
+   "nazwa_pl": "Katedra Prawa Pracy",
+   "nazwa_en": "Department of Labour Law"
+ },
+ {
+   "id": 470,
+   "nazwa_pl": "Katedra Prawa Rzymskiego, Historii Prawa i Ustrojów Państwowych",
+   "nazwa_en": "Department of Roman Law, History of Law and Political Systems"
+ },
+ {
+   "id": 471,
+   "nazwa_pl": "Katedra Prawa Ubezpieczeniowego i Medycznego",
+   "nazwa_en": "Department of Insurance and Medical Law"
+ },
+ {
+   "id": 472,
+   "nazwa_pl": "Katedra Projektowania Graficznego",
+   "nazwa_en": "Department of Graphic Design"
+ },
+ {
+   "id": 473,
+   "nazwa_pl": "Katedra Promocji Zdrowia",
+   "nazwa_en": "Department of Health Promotion"
+ },
+ {
+   "id": 474,
+   "nazwa_pl": "Katedra Propedeutyki Medycyny i Profilaktyki Zakażeń",
+   "nazwa_en": "Department of Propaedeutics of Medicine and Infection Control"
+ },
+ {
+   "id": 475,
+   "nazwa_pl": "Katedra Psychiatrii",
+   "nazwa_en": "Department of Psychiatry"
+ },
+ {
+   "id": 476,
+   "nazwa_pl": "Katedra Psychologii Klinicznej i Neuropsychologii",
+   "nazwa_en": "Department of Clinical Psychology and Neuropsychology"
+ },
+ {
+   "id": 477,
+   "nazwa_pl": "Katedra Psychologii Poznawczej i Porównawczej",
+   "nazwa_en": "Department of Cognitive and Comparative Psychology"
+ },
+ {
+   "id": 478,
+   "nazwa_pl": "Katedra Psychologii Społecznej i Środowiskowej",
+   "nazwa_en": "Department of Social and Environmental Psychology"
+ },
+ {
+   "id": 479,
+   "nazwa_pl": "Katedra Rachunkowości Finansowej",
+   "nazwa_en": "Department of Financial Accounting"
+ },
+ {
+   "id": 480,
+   "nazwa_pl": "Katedra Rachunkowości Zarządczej",
+   "nazwa_en": "Department of Management Accounting"
+ },
+ {
+   "id": 481,
+   "nazwa_pl": "Katedra Radiologii i Diagnostyki Obrazowej",
+   "nazwa_en": "Department of Radiology and Diagnostic Imaging"
+ },
+ {
+   "id": 482,
+   "nazwa_pl": "Katedra Rehabilitacji",
+   "nazwa_en": "Department of Rehabilitation"
+ },
+ {
+   "id": 483,
+   "nazwa_pl": "Katedra Rehabilitacji Kardiologicznej i Promocji Zdrowia",
+   "nazwa_en": "Department of Cardiac Rehabilitation and Health Promotion"
+ },
+ {
+   "id": 484,
+   "nazwa_pl": "Katedra Reumatologii Układowych Chorób Tkanki Łącznej",
+   "nazwa_en": "Department of Rheumatology and Connective Tissue Diseases"
+ },
+ {
+   "id": 485,
+   "nazwa_pl": "Katedra Rewalidacji, Resocjalizacji i Opieki Długoterminowej",
+   "nazwa_en": "Department of Rehabilitation, Social Recovery and Long-term Care"
+ },
+ {
+   "id": 486,
+   "nazwa_pl": "Katedra Równań Różniczkowych",
+   "nazwa_en": "Department of Differential Equations"
+ },
+ {
+   "id": 487,
+   "nazwa_pl": "Katedra Rysunku",
+   "nazwa_en": "Department of Drawing"
+ },
+ {
+   "id": 488,
+   "nazwa_pl": "Katedra Socjologii Zmian Społecznych",
+   "nazwa_en": "Department of Sociology of Social Change"
+ },
+ {
+   "id": 489,
+   "nazwa_pl": "Katedra Starożytności i Wczesnego Średniowiecza",
+   "nazwa_en": "Department of Antiquity and Early Mediaeval Period"
+ },
+ {
+   "id": 490,
+   "nazwa_pl": "Katedra Statystyki Matematycznej i Eksploracji Danych",
+   "nazwa_en": "Department of Mathematical Statistics and Data Mining"
+ },
+ {
+   "id": 491,
+   "nazwa_pl": "Katedra Stosunków Międzynarodowych",
+   "nazwa_en": "Department of International Relations"
+ },
+ {
+   "id": 492,
+   "nazwa_pl": "Katedra Studiów Europejskich",
+   "nazwa_en": "Department of European Studies"
+ },
+ {
+   "id": 493,
+   "nazwa_pl": "Katedra Studiów Miejskich i Rozwoju Regionalnego",
+   "nazwa_en": "Department of Urban and Regional Development Studies"
+ },
+ {
+   "id": 494,
+   "nazwa_pl": "Katedra Studiów Strategicznych",
+   "nazwa_en": "Department of Strategic Studies"
+ },
+ {
+   "id": 495,
+   "nazwa_pl": "Katedra Systemów Politycznych",
+   "nazwa_en": "Department of Political Systems"
+ },
+ {
+   "id": 496,
+   "nazwa_pl": "Katedra Średniowiecza i Czasów Nowożytnych",
+   "nazwa_en": "Department of Mediaeval Period and Early Modern Period"
+ },
+ {
+   "id": 497,
+   "nazwa_pl": "Katedra Technologii Chemicznej",
+   "nazwa_en": "Department of Chemical Technology"
+ },
+ {
+   "id": 498,
+   "nazwa_pl": "Katedra Technologii Chemicznej Środków Leczniczych",
+   "nazwa_en": "Department of Chemical Technology of Pharmaceuticals"
+ },
+ {
+   "id": 499,
+   "nazwa_pl": "Katedra Technologii i Technik Sztuk Plastycznych",
+   "nazwa_en": "Department of Visual Arts Technology and Techniques"
+ },
+ {
+   "id": 500,
+   "nazwa_pl": "Katedra Technologii Postaci Leku",
+   "nazwa_en": "Department of Pharmaceutical Technology"
+ },
+ {
+   "id": 501,
+   "nazwa_pl": "Katedra Teologii Historycznej",
+   "nazwa_en": "Department of Historical Theology"
+ },
+ {
+   "id": 502,
+   "nazwa_pl": "Katedra Teologii Praktycznej",
+   "nazwa_en": "Department of Practical Theology"
+ },
+ {
+   "id": 503,
+   "nazwa_pl": "Katedra Teologii Systematycznej",
+   "nazwa_en": "Department of Systematic Theology"
+ },
+ {
+   "id": 504,
+   "nazwa_pl": "Katedra Teorii Ergodycznej i Układów Dynamicznych",
+   "nazwa_en": "Department of Ergodic Theory and Dynamical Systems"
+ },
+ {
+   "id": 505,
+   "nazwa_pl": "Katedra Teorii Języka",
+   "nazwa_en": "Department of Linguistic Theory"
+ },
+ {
+   "id": 506,
+   "nazwa_pl": "Katedra Teorii Literatury i Komparatystyki",
+   "nazwa_en": "Department of Literary Theory and Comparative Studies"
+ },
+ {
+   "id": 507,
+   "nazwa_pl": "Katedra Teorii Prawa i Państwa",
+   "nazwa_en": "Department of Theory of Law and State"
+ },
+ {
+   "id": 508,
+   "nazwa_pl": "Katedra Teorii Prawdopodobieństwa i Analizy Stochastycznej",
+   "nazwa_en": "Department of Probability Theory and Stochastic Analysis"
+ },
+ {
+   "id": 509,
+   "nazwa_pl": "Katedra Teorii Wychowania",
+   "nazwa_en": "Department of Theory of Education"
+ },
+ {
+   "id": 510,
+   "nazwa_pl": "Katedra Toksykologii i Bromatologii",
+   "nazwa_en": "Department of Toxicology and Bromatology"
+ },
+ {
+   "id": 511,
+   "nazwa_pl": "Katedra Transplantologii i Chirurgii Ogólnej",
+   "nazwa_en": "Department of Transplantology and General Surgery"
+ },
+ {
+   "id": 512,
+   "nazwa_pl": "Katedra Urologii",
+   "nazwa_en": "Department of Urology"
+ },
+ {
+   "id": 513,
+   "nazwa_pl": "Katedra Urologii i Andrologii",
+   "nazwa_en": "Department of Urology and Andrology"
+ },
+ {
+   "id": 514,
+   "nazwa_pl": "Katedra Zabytkoznawstwa i Muzealnictwa",
+   "nazwa_en": "Department of Artefact and Museum Studies"
+ },
+ {
+   "id": 515,
+   "nazwa_pl": "Katedra Zachowań Organizacyjnych i Marketingu",
+   "nazwa_en": "Department of Organisational Behaviour and Marketing"
+ },
+ {
+   "id": 516,
+   "nazwa_pl": "Katedra Zarządzania Finansami",
+   "nazwa_en": "Department of Financial Management"
+ },
+ {
+   "id": 517,
+   "nazwa_pl": "Katedra Zarządzania Przedsiębiorstwem ",
+   "nazwa_en": "Department of Enterprise Management"
+ },
+ {
+   "id": 518,
+   "nazwa_pl": "Katedra Zastosowań Informatyki i Matematyki w Ekonomii",
+   "nazwa_en": "Department of Applied Informatics and Mathematics in Economics"
+ },
+ {
+   "id": 519,
+   "nazwa_pl": "Katedra Zoologii Bezkręgowców i Parazytologii",
+   "nazwa_en": "Department of Invertebrate Zoology and Parasitology"
+ },
+ {
+   "id": 520,
+   "nazwa_pl": "Katedra Zoologii i Ekologii Kręgowców",
+   "nazwa_en": "Department of Vertebrate Zoology and Ecology"
+ },
+ {
+   "id": 521,
+   "nazwa_pl": "Katedra Żywienia i Dietetyki",
+   "nazwa_en": "Department of Nutrition and Dietetics"
+ },
+ {
+   "id": 522,
+   "nazwa_pl": "Klub \"Od Nowa\"",
+   "nazwa_en": "“od Nowa” Club"
+ },
+ {
+   "id": 523,
+   "nazwa_pl": "Kopernikański Ośrodek Integracji",
+   "nazwa_en": "Copernican Integration Centre"
+ },
+ {
+   "id": 524,
+   "nazwa_pl": "Laboratorium Analiz Środowiskowych",
+   "nazwa_en": "Laboratory for Environmental Analysis"
+ },
+ {
+   "id": 525,
+   "nazwa_pl": "Laboratorium Badań Środowiska Pracy",
+   "nazwa_en": "Laboratory for Workplace Environment Analysis"
+ },
+ {
+   "id": 526,
+   "nazwa_pl": "Laboratorium Bioarcheologii",
+   "nazwa_en": "Laboratory for Bioarchaeology"
+ },
+ {
+   "id": 527,
+   "nazwa_pl": "Laboratorium Dokumentacji, Konserwacji i Gromadzenia Zabytków Archeolo",
+   "nazwa_en": "Laboratory for Documentation, Conservation and Acquisition of Archaeol"
+ },
+ {
+   "id": 528,
+   "nazwa_pl": "Laboratorium Eksploatacji Systemu Komputerowego (LESK)",
+   "nazwa_en": "Laboratory for Computer System Usage"
+ },
+ {
+   "id": 529,
+   "nazwa_pl": "Laboratorium Traseologii",
+   "nazwa_en": "Laboratory for Traceology"
+ },
+ {
+   "id": 530,
+   "nazwa_pl": "Magazyn CM",
+   "nazwa_en": "CM Warehouse"
+ },
+ {
+   "id": 531,
+   "nazwa_pl": "Nauczyciele ICNT",
+   "nazwa_en": "Teachers"
+ },
+ {
+   "id": 532,
+   "nazwa_pl": "Obiekty Instytutu Astronomii",
+   "nazwa_en": "Institute of Astronomy Facilities"
+ },
+ {
+   "id": 533,
+   "nazwa_pl": "Obserwatorium Meteorologiczne",
+   "nazwa_en": "Meteorological Observatory"
+ },
+ {
+   "id": 534,
+   "nazwa_pl": "Oddział - Regionalne Centrum Informacji Medycznej",
+   "nazwa_en": "Department - Regional Centre for Medical Information"
+ },
+ {
+   "id": 535,
+   "nazwa_pl": "Oddział Archiwum Emigracji i Muzeum Uniwersyteckiego",
+   "nazwa_en": "Department of Polish Emigration Archives and University Museum"
+ },
+ {
+   "id": 536,
+   "nazwa_pl": "Oddział Bibliografii Publikacji Pracowników UMK i Analiz Bibliometrycz",
+   "nazwa_en": "Department of NCU Staff Bibliographies and Bibliometrics"
+ },
+ {
+   "id": 537,
+   "nazwa_pl": "Oddział Czasopism",
+   "nazwa_en": "Department of Serials"
+ },
+ {
+   "id": 538,
+   "nazwa_pl": "Oddział Gromadzenia i Kontroli Zbiorów",
+   "nazwa_en": "Department of Acquisitions and Collection Review"
+ },
+ {
+   "id": 539,
+   "nazwa_pl": "Oddział Gromadzenia i Opracowania Zbiorów",
+   "nazwa_en": "Department of Acquisitions and Cataloguing"
+ },
+ {
+   "id": 540,
+   "nazwa_pl": "Oddział Informacji",
+   "nazwa_en": "Department of Information"
+ },
+ {
+   "id": 541,
+   "nazwa_pl": "Oddział Informacyjno-Bibliograficzny",
+   "nazwa_en": "Department of Information and Bibliography"
+ },
+ {
+   "id": 542,
+   "nazwa_pl": "Oddział Komputeryzacji i Digitalizacji Zbiorów",
+   "nazwa_en": "Department of Computerisation and Digitisation"
+ },
+ {
+   "id": 543,
+   "nazwa_pl": "Oddział Konserwacji i Zabezpieczania Zbiorów",
+   "nazwa_en": "Department of Conservation and Preservation"
+ },
+ {
+   "id": 544,
+   "nazwa_pl": "Oddział Magazynów",
+   "nazwa_en": "Department of Storage Services"
+ },
+ {
+   "id": 545,
+   "nazwa_pl": "Oddział Opracowania Zbiorów",
+   "nazwa_en": "Department of Cataloguing"
+ },
+ {
+   "id": 546,
+   "nazwa_pl": "Oddział Pomorzoznawczy",
+   "nazwa_en": "1)\tdepartment of Pomeranian Studies"
+ },
+ {
+   "id": 547,
+   "nazwa_pl": "Oddział Przygotowania Implementacji Systemu Bibliotecznego Nowej Gener",
+   "nazwa_en": "Department of Next Generation Library Systems"
+ },
+ {
+   "id": 548,
+   "nazwa_pl": "Oddział Udostępniania",
+   "nazwa_en": "Department of Access Services"
+ },
+ {
+   "id": 549,
+   "nazwa_pl": "Oddział Udostępniania Zbiorów",
+   "nazwa_en": "Deparment of Resource Access"
+ },
+ {
+   "id": 550,
+   "nazwa_pl": "Oddział Zbiorów Specjalnych",
+   "nazwa_en": "Department of Special Collections"
+ },
+ {
+   "id": 551,
+   "nazwa_pl": "Ośrodek Aktywności Studenckiej Kotłownia",
+   "nazwa_en": "Student Activity Centre Kotłownia"
+ },
+ {
+   "id": 552,
+   "nazwa_pl": "Ośrodek Studiów Fiskalnych",
+   "nazwa_en": "Centre for Fiscal Studies"
+ },
+ {
+   "id": 553,
+   "nazwa_pl": "Ośrodek Szkoleniowo-Wypoczynkowy w Bachotku",
+   "nazwa_en": "Holiday and Training Centre in Bachotek"
+ },
+ {
+   "id": 554,
+   "nazwa_pl": "Ośrodek Wypoczynkowy w Rowach",
+   "nazwa_en": "Holiday Centre in Rowy"
+ },
+ {
+   "id": 555,
+   "nazwa_pl": "Pracownia Analiz Instrumentalnych",
+   "nazwa_en": "Laboratory for Instrumental Analysis"
+ },
+ {
+   "id": 556,
+   "nazwa_pl": "Pracownia Dydaktyki Biologii",
+   "nazwa_en": "Laboratory for Biological Education"
+ },
+ {
+   "id": 557,
+   "nazwa_pl": "Pracownia Dydaktyki Medycznej",
+   "nazwa_en": "Laboratory for Medical Education"
+ },
+ {
+   "id": 558,
+   "nazwa_pl": "Pracownia Elektroniki i Miernictwa Komputerowego",
+   "nazwa_en": "Laboratory for Electronics and Computer-aided Metrology"
+ },
+ {
+   "id": 559,
+   "nazwa_pl": "Pracownia Endoskopii i Badań Czynnościowych Przewodu Pokarmowego Wieku",
+   "nazwa_en": "Laboratory for Paediatric Endoscopy and Gastrointestinal Function Test"
+ },
+ {
+   "id": 560,
+   "nazwa_pl": "Pracownia Kserograficzna",
+   "nazwa_en": "Copy Centre"
+ },
+ {
+   "id": 561,
+   "nazwa_pl": "Pracownia Medycyny Społecznej",
+   "nazwa_en": "Laboratory for Social Medicine"
+ },
+ {
+   "id": 562,
+   "nazwa_pl": "Pracownia Metodyki Nauczania Informatyki",
+   "nazwa_en": "Laboratory for Computer Education Methodology"
+ },
+ {
+   "id": 563,
+   "nazwa_pl": "Pracownia Metodyki Nauczania Matematyki",
+   "nazwa_en": "Laboratory for Mathematics Education Methodology"
+ },
+ {
+   "id": 564,
+   "nazwa_pl": "Pracownia Miernictwa Komputerowego",
+   "nazwa_en": "Laboratory for Computer-aided Metrology"
+ },
+ {
+   "id": 565,
+   "nazwa_pl": "Pracownia Rezonansu Magnetycznego",
+   "nazwa_en": "Magnetic Resonance Laboratory"
+ },
+ {
+   "id": 566,
+   "nazwa_pl": "Pracownia Systemów Operacyjnych",
+   "nazwa_en": "Laboratory for Operating Systems"
+ },
+ {
+   "id": 567,
+   "nazwa_pl": "Pracownia Systemów Sieciowych",
+   "nazwa_en": "Laboratory for Computer Network Systems"
+ },
+ {
+   "id": 568,
+   "nazwa_pl": "Pracownia Technik Mobilnych",
+   "nazwa_en": "Laboratory for Mobile Technology"
+ },
+ {
+   "id": 569,
+   "nazwa_pl": "Pracownie Dydaktyczne w Instytucie Fizyki",
+   "nazwa_en": "Teaching Laboratories at the Institute of Physics"
+ },
+ {
+   "id": 570,
+   "nazwa_pl": "Redakcja Bydgoszcz",
+   "nazwa_en": "CM Department of Publishing"
+ },
+ {
+   "id": 571,
+   "nazwa_pl": "Redakcja Toruń",
+   "nazwa_en": "Editorial Office in Toruń"
+ },
+ {
+   "id": 572,
+   "nazwa_pl": "Rzecznik Akademicki",
+   "nazwa_en": "Independent Supervisor – Academic Ombudsman"
+ },
+ {
+   "id": 573,
+   "nazwa_pl": "Samodzielne Stanowisko - Rzecznik Patentowy",
+   "nazwa_en": "Independent Supervisor - Patent Agent"
+ },
+ {
+   "id": 574,
+   "nazwa_pl": "Samodzielne Stanowisko - Specjalista ds. e-learningu",
+   "nazwa_en": "Independent Supervisor – E-learning Specialist"
+ },
+ {
+   "id": 575,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Czynności Kancelaryjnych",
+   "nazwa_en": "Independent Supervisor for Document Circulation Management"
+ },
+ {
+   "id": 576,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Ewaluacji Jakości Działalności Naukowej",
+   "nazwa_en": "Independent Supervisor For Research Quality Assessment"
+ },
+ {
+   "id": 577,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Inwentaryzacji CM",
+   "nazwa_en": "CM Independent Supervisor for Stocktaking"
+ },
+ {
+   "id": 578,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Kształcenia Podyplomowego CM",
+   "nazwa_en": "CM Independent Supervisor for Postgraduate Education"
+ },
+ {
+   "id": 579,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Obronnych",
+   "nazwa_en": "Independent Supervisor for Civil Defence"
+ },
+ {
+   "id": 580,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Obronnych CM",
+   "nazwa_en": "CM Independent Supervisor for Civil Defence"
+ },
+ {
+   "id": 581,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Ochrony Informacji Niejawnych CM",
+   "nazwa_en": "CM Independent Supervisor for Classified Information Protection"
+ },
+ {
+   "id": 582,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Systemów POL-on i USOS",
+   "nazwa_en": "Independent Supervisor for POL-ON and USOS systems"
+ },
+ {
+   "id": 583,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Technicznych CM",
+   "nazwa_en": "CM Independent Supervisor for Technical Management"
+ },
+ {
+   "id": 584,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Współpracy z Bibliotekami Zakładowymi",
+   "nazwa_en": "Independent Supervisor for Library Divisions"
+ },
+ {
+   "id": 585,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Zarządzania Zasobami Ludzkimi (HR nauczycie",
+   "nazwa_en": "Independent Supervisor for Human Resource Management (academic Teacher"
+ },
+ {
+   "id": 586,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Zarządzania Zasobami Ludzkimi (HR pracownik",
+   "nazwa_en": "Independent Supervisor for Human Resource Management (Non-teaching sta"
+ },
+ {
+   "id": 587,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Zarządzania Zasobami Ludzkimi CM (HR nauczy",
+   "nazwa_en": "CM Independent Supervisor for Human Resource Management (academic teac"
+ },
+ {
+   "id": 588,
+   "nazwa_pl": "Samodzielne Stanowisko ds. Zarządzania Zasobami Ludzkimi CM (HR Pracow",
+   "nazwa_en": "CM Independent Supervisor for Human Resource Management (non-teaching "
+ },
+ {
+   "id": 589,
+   "nazwa_pl": "Samodzielne Stanowisko Pracy - Inspektor Ochrony Danych",
+   "nazwa_en": "Independent Supervisor – Data Protection Officer"
+ },
+ {
+   "id": 590,
+   "nazwa_pl": "Samodzielne Stanowisko Pracy - Koordynator ds. projektów zewnętrznych",
+   "nazwa_en": "Independent Supervisor – Coordinator for External Projects"
+ },
+ {
+   "id": 591,
+   "nazwa_pl": "Samodzielne Stanowisko Pracy - Koordynator ds. publikacji elektroniczn",
+   "nazwa_en": "Independent Supervisor – Coordinator for Electronic Publishing"
+ },
+ {
+   "id": 592,
+   "nazwa_pl": "Samodzielne Stanowisko Pracy - Uczelniany Koordynator ds. Elektroniczn",
+   "nazwa_en": "Independent Supervisor – University Coordinator for Electronic Documen"
+ },
+ {
+   "id": 593,
+   "nazwa_pl": "Samodzielne Stanowisko Pracy - Uczelniany Koordynator ds. Jakości Kszt",
+   "nazwa_en": "Independent Supervisor – University Coordinator for Quality of Educati"
+ },
+ {
+   "id": 594,
+   "nazwa_pl": "Samodzielne Stanowisko Pracy ds. Ekonomiczno-Finansowych",
+   "nazwa_en": "Independent Supervisor for Economy and Finances"
+ },
+ {
+   "id": 595,
+   "nazwa_pl": "Samodzielne Stanowisko Pracy ds. Informacji Patentowej i Normalizacji",
+   "nazwa_en": "Independent Supervisor for Patent Information and Standardisation"
+ },
+ {
+   "id": 596,
+   "nazwa_pl": "Samodzielne Stanowisko Pracy ds. Kontroli Jakości Kształcenia CM",
+   "nazwa_en": "CM Independent Supervisor for Education Quality Assessment"
+ },
+ {
+   "id": 597,
+   "nazwa_pl": "Sekcja Bibliografii i Analiz Bibliometrycznych",
+   "nazwa_en": "Bibliography and Bibliometrics Section"
+ },
+ {
+   "id": 598,
+   "nazwa_pl": "Sekcja Czasopism",
+   "nazwa_en": "Journals Section"
+ },
+ {
+   "id": 599,
+   "nazwa_pl": "Sekcja Digitalizacji i Zasobów Cyfrowych",
+   "nazwa_en": "Digitisation and Digital Resources Section"
+ },
+ {
+   "id": 600,
+   "nazwa_pl": "Sekcja ds. Organizacji Krajowych Badań Naukowych",
+   "nazwa_en": "Organising Section for National Research Projects"
+ },
+ {
+   "id": 601,
+   "nazwa_pl": "Sekcja ds. Rozliczeń Krajowych Projektów Badawczych",
+   "nazwa_en": "Accounting Section for National Research Projects"
+ },
+ {
+   "id": 602,
+   "nazwa_pl": "Sekcja ds. Wieloletniego Programu Medycznego – Rozbudowa i Modernizacj",
+   "nazwa_en": "Section for the Long Term Medical Program – Redevelopment and Modernis"
+ },
+ {
+   "id": 603,
+   "nazwa_pl": "Sekcja Finansowa",
+   "nazwa_en": "Finance Section"
+ },
+ {
+   "id": 604,
+   "nazwa_pl": "Sekcja Kreatywna",
+   "nazwa_en": "Creative Office"
+ },
+ {
+   "id": 605,
+   "nazwa_pl": "Sekcja Księgowości",
+   "nazwa_en": "Accounting Section"
+ },
+ {
+   "id": 606,
+   "nazwa_pl": "Sekcja Księgowości Majątkowej CM",
+   "nazwa_en": "CM Section of Asset Accounting"
+ },
+ {
+   "id": 607,
+   "nazwa_pl": "Sekcja Księgowości Majątkowej i Materiałowej",
+   "nazwa_en": "Asset Accounting Section"
+ },
+ {
+   "id": 608,
+   "nazwa_pl": "Sekcja Księgowości Ogólnej CM",
+   "nazwa_en": "CM General Accounting Section"
+ },
+ {
+   "id": 609,
+   "nazwa_pl": "Sekcja Magazynów i Czytelni Ogólnej",
+   "nazwa_en": "Magazines and General Reading Room Section"
+ },
+ {
+   "id": 610,
+   "nazwa_pl": "Sekcja Nauki CM",
+   "nazwa_en": "CM Research Section"
+ },
+ {
+   "id": 611,
+   "nazwa_pl": "Sekcja Obsługi Projektów",
+   "nazwa_en": "Project Support Section"
+ },
+ {
+   "id": 612,
+   "nazwa_pl": "Sekcja Promocyjna",
+   "nazwa_en": "Marketing Office"
+ },
+ {
+   "id": 613,
+   "nazwa_pl": "Sekcja Redakcyjna",
+   "nazwa_en": "Editorial Office"
+ },
+ {
+   "id": 614,
+   "nazwa_pl": "Sekcja Rękopisów",
+   "nazwa_en": "Manuscripts Section"
+ },
+ {
+   "id": 615,
+   "nazwa_pl": "Sekretariat Biblioteki Głównej",
+   "nazwa_en": "Secretariat - Main Library"
+ },
+ {
+   "id": 616,
+   "nazwa_pl": "Sekretariat CBK",
+   "nazwa_en": "Secretariat - CBK"
+ },
+ {
+   "id": 617,
+   "nazwa_pl": "Sekretariat Centrum",
+   "nazwa_en": "Secretariat - UCS"
+ },
+ {
+   "id": 618,
+   "nazwa_pl": "Sekretariat ICNT",
+   "nazwa_en": "Secretariat - ICNT"
+ },
+ {
+   "id": 619,
+   "nazwa_pl": "Sekretariat Inicjatywy Doskonałości - Uczelnia Badawcza",
+   "nazwa_en": "Office for Excellence Initiative - Research University"
+ },
+ {
+   "id": 620,
+   "nazwa_pl": "Sekretariat Kanclerza Uniwersytetu",
+   "nazwa_en": "Office of the Chancellor"
+ },
+ {
+   "id": 621,
+   "nazwa_pl": "Sekretariat NSZZ \"Solidarność\"",
+   "nazwa_en": "Office of the Independent and Self-governing Trade Union “solidarnoŚĆ”"
+ },
+ {
+   "id": 622,
+   "nazwa_pl": "Sekretariat Ogólny",
+   "nazwa_en": "General Mailroom"
+ },
+ {
+   "id": 623,
+   "nazwa_pl": "Sekretariat Ogólny CM",
+   "nazwa_en": "CM General Mailroom"
+ },
+ {
+   "id": 624,
+   "nazwa_pl": "Sekretariat prorektora ds. badań naukowych i współpracy z zagranicą",
+   "nazwa_en": "iOffice of the Vice-Rector for Research and International Cooperation"
+ },
+ {
+   "id": 625,
+   "nazwa_pl": "Sekretariat prorektora ds. kształcenia",
+   "nazwa_en": "Office of the Vice-Rector for Education"
+ },
+ {
+   "id": 626,
+   "nazwa_pl": "Sekretariat prorektora ds. studenckich",
+   "nazwa_en": "Office of the Vice-Rector for Student Affairs"
+ },
+ {
+   "id": 627,
+   "nazwa_pl": "Sekretariat prorektora ds. współpracy z otoczeniem społecznym i gospod",
+   "nazwa_en": "Office of the Vice-Rector for Social and Business Cooperation"
+ },
+ {
+   "id": 628,
+   "nazwa_pl": "Sekretariat Prorektorów w Collegium Medicum",
+   "nazwa_en": "Office of the Vice-rectors in Collegium Medicum"
+ },
+ {
+   "id": 629,
+   "nazwa_pl": "Sekretariat Prorektorów: ds. Ekonomicznych i Rozwoju oraz ds. Współpra",
+   "nazwa_en": "Office of Vice-rectors: for Economy and Development and for Internatio"
+ },
+ {
+   "id": 630,
+   "nazwa_pl": "Sekretariat Prorektorów: ds. Studenckich i Polityki Kadrowej oraz ds. ",
+   "nazwa_en": "Office of Vice-rectors: for Student Affairs and Staff Management and f"
+ },
+ {
+   "id": 631,
+   "nazwa_pl": "Sekretariat SPNJO",
+   "nazwa_en": "Secretariat - SPNJO"
+ },
+ {
+   "id": 632,
+   "nazwa_pl": "Sekretariat Szkół Doktorskich",
+   "nazwa_en": "Doctoral Schools Office"
+ },
+ {
+   "id": 633,
+   "nazwa_pl": "Sekretariat Towarzystwa Statystyki Matematycznej i Prawdopodobieństwa ",
+   "nazwa_en": "Office of the Bernoulli Society for Mathematical Statistic and Probabi"
+ },
+ {
+   "id": 634,
+   "nazwa_pl": "Sekretariat UCI",
+   "nazwa_en": "Secretariat - UCI"
+ },
+ {
+   "id": 635,
+   "nazwa_pl": "Sekretariat Uczelnianej Rady Samorządu Studenckiego",
+   "nazwa_en": "Secretariat of the University Council of Student Government"
+ },
+ {
+   "id": 636,
+   "nazwa_pl": "Sekretariat WN",
+   "nazwa_en": "Secretariat - WN"
+ },
+ {
+   "id": 637,
+   "nazwa_pl": "Sekretariat Zastępcy Kanclerza ds. Collegium Medicum",
+   "nazwa_en": "Office of the Vice-chancellor for Collegium Medicum"
+ },
+ {
+   "id": 638,
+   "nazwa_pl": "Sekretariat ZNP",
+   "nazwa_en": "Office of the Polish Teachers’ Union"
+ },
+ {
+   "id": 639,
+   "nazwa_pl": "Studium Kultury i Języka Polskiego dla Obcokrajowców",
+   "nazwa_en": "Centre for Polish Language and Culture for Foreigners"
+ },
+ {
+   "id": 640,
+   "nazwa_pl": "Szkoła Doktorska Nauk Humanistycznych, Teologicznych i Artystycznych",
+   "nazwa_en": "Doctoral School of Humanities, Theology and Arts"
+ },
+ {
+   "id": 641,
+   "nazwa_pl": "Szkoła Doktorska Nauk Medycznych i Nauk o Zdrowiu",
+   "nazwa_en": "Doctoral School of Medical and Health Sciences"
+ },
+ {
+   "id": 642,
+   "nazwa_pl": "Szkoła Doktorska Nauk Ścisłych i Przyrodniczych",
+   "nazwa_en": "Doctoral School of Exact and Natural Sciences"
+ },
+ {
+   "id": 643,
+   "nazwa_pl": "Uniwersytecka Przychodnia Weterynaryjna",
+   "nazwa_en": "University Veterinary Clinic"
+ },
+ {
+   "id": 644,
+   "nazwa_pl": "Uniwersytecka Rozgłośnia \"Radio Sfera\"",
+   "nazwa_en": "University Radio Station “radio Sfera”"
+ },
+ {
+   "id": 645,
+   "nazwa_pl": "Uniwersyteckie Centrum Ekspertyz Prawnych",
+   "nazwa_en": "University Centre for Judicial Opinion Writing"
+ },
+ {
+   "id": 646,
+   "nazwa_pl": "Uniwersyteckie Centrum Zdrowia Kobiety i Dziecka",
+   "nazwa_en": "University Centre for Women's and Children's Health"
+ },
+ {
+   "id": 647,
+   "nazwa_pl": "Uniwersytet Mikołaja Kopernika w Toruniu",
+   "nazwa_en": "Nicolaus Copernicus University"
+ },
+ {
+   "id": 648,
+   "nazwa_pl": "Władze Administracyjne",
+   "nazwa_en": "Administrative Authorities"
+ },
+ {
+   "id": 649,
+   "nazwa_pl": "Wytwórnia ATMP",
+   "nazwa_en": "ATMP Manufacture"
+ },
+ {
+   "id": 650,
+   "nazwa_pl": "Administracja Uniwersytetu",
+   "nazwa_en": "University Administration"
+ },
+ {
+   "id": 651,
+   "nazwa_pl": "Zakład Starszej i Środkowej Epoki Kamienia",
+   "nazwa_en": "Department of Old and Middle Stone Age"
+ },
+ {
+   "id": 652,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy Biblioteki Głównej",
+   "nazwa_en": "Administration and Maintenance Team - Main Library"
+ },
+ {
+   "id": 653,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy Collegium Humanisticum",
+   "nazwa_en": "Administration and Maintenance Team – Collegium Humanisticum"
+ },
+ {
+   "id": 654,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy ICNT",
+   "nazwa_en": "Administration and Maintenance Team – Centre for Modern Interdisciplin"
+ },
+ {
+   "id": 655,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy Instytutów: Fizyki i Nauk Techniczn",
+   "nazwa_en": "Administration and Maintenance Team - Institute of Physics and Institu"
+ },
+ {
+   "id": 656,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy Instytutu Astronomii",
+   "nazwa_en": "Administration and Maintenance Team - Institute of Astronomy"
+ },
+ {
+   "id": 657,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy obiektów Centrum",
+   "nazwa_en": "Administration and Maintenance Team – University Sports Centre"
+ },
+ {
+   "id": 658,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy obiektu przy ul. Gagarina 39",
+   "nazwa_en": "Administration and Maintenance Team – 39 Gagarina Street in ToruŃ"
+ },
+ {
+   "id": 659,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy obiektu przy ul. Lwowska 1 w Toruni",
+   "nazwa_en": "Administration and Maintenance Team – 1 Lwowska Street in Toruń"
+ },
+ {
+   "id": 660,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy WCh",
+   "nazwa_en": "Administration and Maintenance Team – Faculty of Chemistry"
+ },
+ {
+   "id": 661,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy WNEiZ",
+   "nazwa_en": "Administration and Maintenance Team – Faculty of Economic Sciences and"
+ },
+ {
+   "id": 662,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy WPiA",
+   "nazwa_en": "Administration and Maintenance Team – Faculty of Law and Administratio"
+ },
+ {
+   "id": 663,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy WSP",
+   "nazwa_en": "Administration and Maintenance Team – Faculty of Fine Arts"
+ },
+ {
+   "id": 664,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy WT",
+   "nazwa_en": "Administration and Maintenance Team – Faculty of Theology"
+ },
+ {
+   "id": 665,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy Wydziału Filozofii i Nauk Społeczny",
+   "nazwa_en": "Administration and Maintenance Team – Faculty of Philosophy and Social"
+ },
+ {
+   "id": 666,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy Wydziału Humanistycznego",
+   "nazwa_en": "Administration and Maintenance Team – Faculty of Humanities"
+ },
+ {
+   "id": 667,
+   "nazwa_pl": "Zespół Administracyjno-Gospodarczy Wydziału Nauk o Polityce i Bezpiecz",
+   "nazwa_en": "Administration and Maintenance Team – Faculty of Political Science and"
+ },
+ {
+   "id": 668,
+   "nazwa_pl": "Zespół ds. BHP i Ochrony Ppoż.",
+   "nazwa_en": "Panel On Ohs and Fire Protection"
+ },
+ {
+   "id": 669,
+   "nazwa_pl": "Zespół ds. BHP i Ppoż CM",
+   "nazwa_en": "CM Panel On Ohs and Fire Protection"
+ },
+ {
+   "id": 670,
+   "nazwa_pl": "Zespół ds. Dystrybucji i Magazynowania",
+   "nazwa_en": "Department of Distribution and Storage"
+ },
+ {
+   "id": 671,
+   "nazwa_pl": "Zespół ds. Ekonomiczno-Finansowych",
+   "nazwa_en": "Office for Economy and Finances"
+ },
+ {
+   "id": 672,
+   "nazwa_pl": "Zespół ds. Inwentaryzacji CM",
+   "nazwa_en": "CM Panel on Stocktaking"
+ },
+ {
+   "id": 673,
+   "nazwa_pl": "Zespół ds. Kontroli  Wewnętrznej CM",
+   "nazwa_en": "CM Panel On Quality Assurance Review"
+ },
+ {
+   "id": 674,
+   "nazwa_pl": "Zespół ds. Ochrony Informacji Niejawnych",
+   "nazwa_en": "Panel On Classified Information Protection"
+ },
+ {
+   "id": 675,
+   "nazwa_pl": "Zespół ds. Organizacji Krajowych Badań Naukowych",
+   "nazwa_en": "Organising Team for National Research Projects"
+ },
+ {
+   "id": 676,
+   "nazwa_pl": "Zespół ds. Planowania i Analiz CM",
+   "nazwa_en": "CM Panel On Financial Planning and Analysis"
+ },
+ {
+   "id": 677,
+   "nazwa_pl": "Zespół ds. Projektów Klinicznych CM",
+   "nazwa_en": "CM Clinical Research Section"
+ },
+ {
+   "id": 678,
+   "nazwa_pl": "Zespół ds. Promocji i Marketingu",
+   "nazwa_en": "Promotion and Marketing Team"
+ },
+ {
+   "id": 679,
+   "nazwa_pl": "Zespół ds. Rozliczeń Krajowych Projektów Badawczych",
+   "nazwa_en": "Accounting Team for National Research Projects"
+ },
+ {
+   "id": 680,
+   "nazwa_pl": "Zespół ds. sportu akademickiego",
+   "nazwa_en": "Academic Sports Section"
+ },
+ {
+   "id": 681,
+   "nazwa_pl": "Zespół ds. Studentów Niepełnosprawnych",
+   "nazwa_en": "Office for Students With Disabilities"
+ },
+ {
+   "id": 682,
+   "nazwa_pl": "Zespół ds. wychowania fizycznego",
+   "nazwa_en": "Physical Education Section"
+ },
+ {
+   "id": 683,
+   "nazwa_pl": "Zespół ds. Zamówień Publicznych CM",
+   "nazwa_en": "CM Panel On Public Procurement"
+ },
+ {
+   "id": 684,
+   "nazwa_pl": "Zespół Głosu Uczelni",
+   "nazwa_en": "Editorial Office of “gŁos Uczelni”"
+ },
+ {
+   "id": 685,
+   "nazwa_pl": "Zespół Informacyjno-Wydawniczy",
+   "nazwa_en": "Department of It and Publishing Services"
+ },
+ {
+   "id": 686,
+   "nazwa_pl": "Zespół języka angielskiego",
+   "nazwa_en": "English Section"
+ },
+ {
+   "id": 687,
+   "nazwa_pl": "Zespół języka francuskiego, niemieckiego, rosyjskiego i łaciny",
+   "nazwa_en": "French, German, Russian and Latin Section"
+ },
+ {
+   "id": 688,
+   "nazwa_pl": "Zespół Kasy Zapomogowo-Pożyczkowej w Toruniu",
+   "nazwa_en": "Social Benefits and Loans Fund in ToruŃ"
+ },
+ {
+   "id": 689,
+   "nazwa_pl": "Zespół Prasowy",
+   "nazwa_en": "Press Office"
+ },
+ {
+   "id": 690,
+   "nazwa_pl": "Zespół Radców Prawnych",
+   "nazwa_en": "Panel of Legal Experts"
+ },
+ {
+   "id": 691,
+   "nazwa_pl": "Zespół Radców Prawnych CM",
+   "nazwa_en": "CM Panel of Legal Experts"
+ },
+ {
+   "id": 692,
+   "nazwa_pl": "Zespół Wsparcia Osób ze Szczególnymi Potrzebami",
+   "nazwa_en": "Special Needs Support Team"
+ },
+ {
+   "id": 693,
+   "nazwa_pl": "Zwierzętarnia",
+   "nazwa_en": "Animal Facilities"
+ }
+]

@@ -1,0 +1,246 @@
+[
+ {
+   "possition_pl": "adiunkt",
+   "possition_en": "Assistant Professor"
+ },
+ {
+   "possition_pl": "analityk danych",
+   "possition_en": "Data analyst"
+ },
+ {
+   "possition_pl": "archiwista",
+   "possition_en": "Archivist"
+ },
+ {
+   "possition_pl": "asystent",
+   "possition_en": "Assistant"
+ },
+ {
+   "possition_pl": "audytor wewnętrzny",
+   "possition_en": "Quality assurance auditor"
+ },
+ {
+   "possition_pl": "bibliotekarz",
+   "possition_en": "Librarian"
+ },
+ {
+   "possition_pl": "broker innowacji",
+   "possition_en": "Innovation broker"
+ },
+ {
+   "possition_pl": "były pracownik",
+   "possition_en": "former employee"
+ },
+ {
+   "possition_pl": "główny specjalista",
+   "possition_en": "Main specialist"
+ },
+ {
+   "possition_pl": "główny specjalista ds. bhp",
+   "possition_en": "Chief occupational health and safety specialist"
+ },
+ {
+   "possition_pl": "główny specjalista inż. -techn.",
+   "possition_en": "Senior engineering and technical specialist"
+ },
+ {
+   "possition_pl": "główny specjalista inżynieryjno-techniczny",
+   "possition_en": "Chief engineering and technical specialist"
+ },
+ {
+   "possition_pl": "informatyk",
+   "possition_en": "Computer specialist"
+ },
+ {
+   "possition_pl": "inspektor ochrony danych",
+   "possition_en": "data protection officer"
+ },
+ {
+   "possition_pl": "introligator",
+   "possition_en": "Bookbinder"
+ },
+ {
+   "possition_pl": "kanclerz",
+   "possition_en": "Chancelor"
+ },
+ {
+   "possition_pl": "kierownik",
+   "possition_en": "Manager"
+ },
+ {
+   "possition_pl": "konserwator",
+   "possition_en": "Maintenance technician"
+ },
+ {
+   "possition_pl": "konserwator i restaurator dzieł sztuki",
+   "possition_en": "Conservator and restorer of works of art."
+ },
+ {
+   "possition_pl": "kustosz",
+   "possition_en": "Curator"
+ },
+ {
+   "possition_pl": "kustosz archiwalny",
+   "possition_en": "Archive custodian"
+ },
+ {
+   "possition_pl": "kustosz konserwator i restaurator dzieł sztuki",
+   "possition_en": "Custodian conservator and restorer of works of art."
+ },
+ {
+   "possition_pl": "kwestor",
+   "possition_en": "Bursar"
+ },
+ {
+   "possition_pl": "laborant",
+   "possition_en": "Laboratory technician"
+ },
+ {
+   "possition_pl": "laborant sekcyjny",
+   "possition_en": "Post-mortem laboratory technician"
+ },
+ {
+   "possition_pl": "lektor",
+   "possition_en": "Language teacher"
+ },
+ {
+   "possition_pl": "mistrz",
+   "possition_en": "Master"
+ },
+ {
+   "possition_pl": "profesor",
+   "possition_en": "Professor"
+ },
+ {
+   "possition_pl": "profesor uniwersytetu",
+   "possition_en": "University Professor"
+ },
+ {
+   "possition_pl": "radca prawny",
+   "possition_en": "Attorney-at-law"
+ },
+ {
+   "possition_pl": "ratownik wodny",
+   "possition_en": "Lifeguard"
+ },
+ {
+   "possition_pl": "referent",
+   "possition_en": "Clerk"
+ },
+ {
+   "possition_pl": "sp. it. ds. kontroli jakości",
+   "possition_en": "Assistant Professor"
+ },
+ {
+   "possition_pl": "specjalista",
+   "possition_en": "Specialist"
+ },
+ {
+   "possition_pl": "specjalista analityk danych",
+   "possition_en": "Data analysis specialist"
+ },
+ {
+   "possition_pl": "specjalista ds. bhp",
+   "possition_en": "Occupational health and safety specialist"
+ },
+ {
+   "possition_pl": "specjalista informatyk",
+   "possition_en": "Specialist IT specialist"
+ },
+ {
+   "possition_pl": "specjalista inżynieryjno-techniczny",
+   "possition_en": "Engineering and technical specialist"
+ },
+ {
+   "possition_pl": "specjalista inżynieryjno-techniczny ds. produkcji",
+   "possition_en": "Engineering and technical specialist"
+ },
+ {
+   "possition_pl": "st. bibliotekarz",
+   "possition_en": "Senior librarian"
+ },
+ {
+   "possition_pl": "st. kustosz dyplomowany",
+   "possition_en": "Senior Certified Custodian"
+ },
+ {
+   "possition_pl": "starszy analityk danych",
+   "possition_en": "Senior data analysis"
+ },
+ {
+   "possition_pl": "starszy archiwista",
+   "possition_en": "Senior archivist"
+ },
+ {
+   "possition_pl": "starszy bibliotekarz",
+   "possition_en": "Senior librarian"
+ },
+ {
+   "possition_pl": "starszy drukarz",
+   "possition_en": "Senior printer"
+ },
+ {
+   "possition_pl": "starszy informatyk",
+   "possition_en": "Senior IT specialist"
+ },
+ {
+   "possition_pl": "starszy introligator",
+   "possition_en": "Senior bookbinder"
+ },
+ {
+   "possition_pl": "starszy konserwator",
+   "possition_en": "Senior maintenance technician"
+ },
+ {
+   "possition_pl": "starszy konserwator i restaurator dzieł sztuki",
+   "possition_en": "Senior conservator and restorer of works of art."
+ },
+ {
+   "possition_pl": "starszy specjalista",
+   "possition_en": "Senior specialist"
+ },
+ {
+   "possition_pl": "starszy specjalista informatyk",
+   "possition_en": "Senior specialist IT specialist"
+ },
+ {
+   "possition_pl": "starszy specjalista inżynieryjno-techniczny",
+   "possition_en": "Senior engineering and technical specialist"
+ },
+ {
+   "possition_pl": "technik",
+   "possition_en": "Technician"
+ },
+ {
+   "possition_pl": "wykładowca",
+   "possition_en": "Lecturer"
+ },
+ {
+   "possition_pl": "z-ca kanclerza ds. administracyjnych",
+   "possition_en": "Vice-chancellor"
+ },
+ {
+   "possition_pl": "z-ca kanclerza ds. cm",
+   "possition_en": "Vice-chancellor"
+ },
+ {
+   "possition_pl": "z-ca kwestora",
+   "possition_en": "Vice-bursar"
+ },
+ {
+   "possition_pl": "z-ca kwestora ds. cm",
+   "possition_en": "Vice-bursar"
+ },
+ {
+   "possition_pl": "zastępca kanclerza ds. technicznych",
+   "possition_en": "Vice-chancellor"
+ },
+ {
+   "possition_pl": "zastępca kanclerza ds. zamówień publicznych",
+   "possition_en": "Vice-chancellor"
+ },
+ {
+   "possition_pl": "zastępca kierownika",
+   "possition_en": "Deputy head"
+ }
+]

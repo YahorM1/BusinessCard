@@ -1,0 +1,478 @@
+[
+ {
+   "Wydział Chemii": "Faculty of Chemistry"
+ },
+ {
+   "Wydział Farmaceutyczny": "Faculty of Pharmacy"
+ },
+ {
+   "Wydział Filozofii i Nauk Społecznych": "Faculty of Philosophy and Social Sciences"
+ },
+ {
+   "Wydział Fizyki, Astronomii i Informatyki Stosowanej": "Faculty of Physics, Astronomy and Informatics"
+ },
+ {
+   "Wydział Humanistyczny": "Faculty of Humanities"
+ },
+ {
+   "Wydział Lekarski": "Faculty of Medicine"
+ },
+ {
+   "Wydział Matematyki i Informatyki": "Faculty of Mathematics and Computer Science"
+ },
+ {
+   "Wydział Nauk Biologicznych i Weterynaryjnych": "Faculty of Biological and Veterinary Sciences"
+ },
+ {
+   "Wydział Nauk Ekonomicznych i Zarządzania": "Faculty of Economic Sciences and Management"
+ },
+ {
+   "Wydział Nauk Historycznych": "Faculty of History"
+ },
+ {
+   "Wydział Nauk o Polityce i Bezpieczeństwie": "Faculty of Political and Security Sciences"
+ },
+ {
+   "Wydział Nauk o Zdrowiu": "Faculty of Health Sciences"
+ },
+ {
+   "Wydział Nauk o Ziemi i Gospodarki Przestrzennej": "Faculty of Earth Sciences and Spatial Management"
+ },
+ {
+   "Wydział Prawa i Administracji": "Faculty of Law and Administration"
+ },
+ {
+   "Wydział Sztuk Pięknych": "Faculty of Fine Arts"
+ },
+ {
+   "Wydział Teologiczny": "Faculty of Theology"
+ },
+ {
+   "Szkoły doktorskie": "Doctoral Schools"
+ },
+ {
+   "Akademickie Centrum Kultury i Sztuki \"Od Nowa\"": "Academic Centre for Culture and Art “od Nowa”"
+ },
+ {
+   "Archiwum UMK": "NCU Archives"
+ },
+ {
+   "Biblioteka Uniwersytecka": "University Library"
+ },
+ {
+   "Centrum Badania Historii \"Solidarności\" i Oporu Społecznego w PRL": "Centre for Research On the History"
+ },
+ {
+   "Centrum Badań Kopernikańskich": "Centre for Copernican Studies"
+ },
+ {
+   "Centrum Języków Specjalistycznych w Medycynie": "Centre for Specialised Languages in Medicine"
+ },
+ {
+   "Centrum Kształcenia w Języku Angielskim Collegium Medicum UMK": "Centre for Medical Education in English at NCU Collegium Medicum"
+ },
+ {
+   "Centrum Naukowe Ratzingerianum": "Ratzingerianum Research Centre"
+ },
+ {
+   "Centrum Przedsiębiorczości Akademickiej i Transferu Technologii Uniwer": "Centre for Academic Entrepreneurship and Technology Transfer at the Ni"
+ },
+ {
+   "Centrum Symulacji Medycznych Collegium Medicum UMK": "Centre for Medical Simulation at NCU Collegium Medicum"
+ },
+ {
+   "Interdyscyplinarne Centrum Nowoczesnych Technologii": "Centre for Modern Interdisciplinary Technologies (icnt)"
+ },
+ {
+   "Ośrodek Analiz Statystycznych": "Centre for Statistical Analysis"
+ },
+ {
+   "Samodzielne Stanowisko ds. Doświadczeń na Zwierzętach w CM": "CM Independent Supervisor for Animal Experimentation"
+ },
+ {
+   "Studium Medycyny Społecznej CM": "CM Centre for Social Medicine"
+ },
+ {
+   "Studium Praktycznej Nauki Języków Obcych": "Foreign Languages Centre"
+ },
+ {
+   "Studium Wychowania Fizycznego i Sportu CM": "CM Centre for Physical Education and Sport"
+ },
+ {
+   "Uniwersytecki Ośrodek Analiz Strategicznych": "University Strategic Analysis Board"
+ },
+ {
+   "Uniwersytecki Ośrodek Wsparcia i Rozwoju Osobistego": "University Centre for Support and Personal Development"
+ },
+ {
+   "Uniwersyteckie Centra Naukowe Nadzorowane przez Dziekanów Wydziałów": "University-Wide Research Centres Supervised by Faculty Deans"
+ },
+ {
+   "Uniwersyteckie Centrum Archeologii Średniowiecza i Nowożytności": "University Centre for Archaeology of Middle Ages and Early Modern Peri"
+ },
+ {
+   "Uniwersyteckie Centrum Badań Nieliniowych im. J. P. Schaudera": "Juliusz P. Schauder Centre for Nonlinear Studies"
+ },
+ {
+   "Uniwersyteckie Centrum Informatyczne": "University Centre for IT Services"
+ },
+ {
+   "Uniwersyteckie Centrum Języków Obcych": "University Centre for Foreign Languages"
+ },
+ {
+   "Uniwersyteckie Centrum Sportowe": "University Sports Centre"
+ },
+ {
+   "Wydawnictwo Naukowe UMK": "Nicolaus Copernicus University Press"
+ },
+ {
+   "Administracja Biblioteki Głównej": "Library Administration"
+ },
+ {
+   "Administracja CBK": "CBK Administration"
+ },
+ {
+   "Administracja Centrum": "Administration UCS"
+ },
+ {
+   "Administracja ICNT": "Administration"
+ },
+ {
+   "Administracja Instytutu Astronomii": "Institute of Astronomy Administration"
+ },
+ {
+   "Administracja SPNJO": "Administration of SPNJO"
+ },
+ {
+   "Administracja UCI": "Administration"
+ },
+ {
+   "Administracja UCJO": "Administration"
+ },
+ {
+   "Administracja w Bydgoszczy": "Administration in Bydgoszcz"
+ },
+ {
+   "Administracja w Toruniu": "Administration in Toruń"
+ },
+ {
+   "Administracja WFAiIS": "Administration"
+ },
+ {
+   "Administracja WFarm": "Administration"
+ },
+ {
+   "Administracja WL": "Administration"
+ },
+ {
+   "Administracja WNEiZ": "Administration"
+ },
+ {
+   "Administracja WNoZ": "Administration"
+ },
+ {
+   "Administracja WPiA": "Administration"
+ },
+ {
+   "Administracja WSzP": "Administration"
+ },
+ {
+   "Administracja Wydawnictwa": "Administration"
+ },
+ {
+   "Administracja Wydziału Chemii": "Administration"
+ },
+ {
+   "Administracja Wydziału Filozofii i Nauk Społecznych": "Administration"
+ },
+ {
+   "Administracja Wydziału Humanistycznego": "Administration"
+ },
+ {
+   "Administracja Wydziału Matematyki i Informatyki": "Administration"
+ },
+ {
+   "Administracja Wydziału Nauk Biologicznych i Weterynaryjnych": "Administration"
+ },
+ {
+   "Administracja Wydziału Nauk Historycznych": "Administration"
+ },
+ {
+   "Administracja Wydziału Nauk o Polityce i Bezpieczeństwie": "Administration"
+ },
+ {
+   "Administracja Wydziału Nauk o Ziemi i Gospodarki Przestrzennej": "Administration"
+ },
+ {
+   "Administracja Wydziału Teologicznego": "Administration"
+ },
+ {
+   "Archiwum UMK - Oddział Zamiejscowy w Bydgoszczy": "NCU Archives – Off-campus Branch in Bydgoszcz"
+ },
+ {
+   "Aula UMK": "NCU Auditorium"
+ },
+ {
+   "Biblioteka Collegium Humanisticum": "Library of Collegium Humanisticum"
+ },
+ {
+   "Biblioteka Główna": "Main Library"
+ },
+ {
+   "Biblioteka Instytutu Archeologii": "Library of the Institute of Archaeology"
+ },
+ {
+   "Biblioteka Instytutu Fizyki": "Library of the Institute of Physics"
+ },
+ {
+   "Biblioteka Medyczna": "Medical Library"
+ },
+ {
+   "Biblioteka Wydziału Chemii": "Library of the Faculty of Chemistry"
+ },
+ {
+   "Biblioteka Wydziału Filozofii i Nauk Społecznych": "Library of the Faculty of Philosophy and Social Sciences"
+ },
+ {
+   "Biblioteka Wydziału Fizyki, Astronomii i Informatyki Stosowanej": "Library of the Faculty of Physics, Astronomy and Informatics"
+ },
+ {
+   "Biblioteka Wydziału Humanistycznego": "Library of Collegium Humanisticum"
+ },
+ {
+   "Biblioteka Wydziału Matematyki i Informatyki": "Library of the Faculty of Mathematics and Computer Science"
+ },
+ {
+   "Biblioteka Wydziału Nauk Ekonomicznych i Zarządzania": "Library of the Faculty of Economic Sciences and Management"
+ },
+ {
+   "Biblioteka Wydziału Nauk Historycznych": "Library of the Faculty of History"
+ },
+ {
+   "Biblioteka Wydziału Nauk o Polityce i Bezpieczeństwie": "Library of the Faculty of Political Science and Security Studies"
+ },
+ {
+   "Biblioteka Wydziału Prawa i Administracji": "Library of the Faculty of Law and Administration"
+ },
+ {
+   "Biblioteka Wydziału Sztuk Pięknych": "Library of the Faculty of Fine Arts"
+ },
+ {
+   "Biblioteka Wydziału Teologicznego": "Library of the Faculty of Theology"
+ },
+ {
+   "Biblioteki Wydziałowe i Instytutowe": "Faculty Libraries"
+ },
+ {
+   "Biuro Rektora": "Office of the Rector"
+ },
+ {
+   "Bursa Gimnazjum i Liceum Akademickiego": "Dormitory of the Lower and Upper Academic Secondary School"
+ },
+ {
+   "Centrum Archeologii Podwodnej (WNH)": "Centre for Underwater Archaeology"
+ },
+ {
+   "Centrum Badań Europy Środkowej i Wschodniej (WNEiZ)": "Centre for Central and Eastern European Studies (FESM)"
+ },
+ {
+   "Centrum Badań i Konserwacji Dziedzictwa Kulturowego (WSzP)": "Centre for Study and Conservation of Cultural Heritage (FFA)"
+ },
+ {
+   "Centrum Badań Kitabistycznych (WH)": "Centre for Kitab Studies (FHum)"
+ },
+ {
+   "Centrum Badań nad Cyberprzestępczością": "Centre for Cybercrime Research"
+ },
+ {
+   "Centrum Badań nad Ewolucją Języka (WH)": "Centre for Language Evolution Studies (FHum)"
+ },
+ {
+   "Centrum Badań nad Rodziną (WFiNS)": "Centre for Family Research (FPhSS)"
+ },
+ {
+   "Centrum Badań Polarnych (WNoZiGP)": "Polar Research Centre"
+ },
+ {
+   "Centrum Badań Turystycznych (WNEiZ)": "Centre for Tourism Research (FESM)"
+ },
+ {
+   "Centrum Edukacyjno-Badawcze Metod Separacyjnych i Bioanalitycznych (WC)": "Centre for Education and Research in Separation Methods and Bioanalysi"
+ },
+ {
+   "Centrum Gospodarki i Finansów Cyfrowych": "Centre for Digital Economy and Finance"
+ },
+ {
+   "Centrum Języka i Kultury Chińskiej (WH)": "Centre for Chinese Language and Culture (FHUM)"
+ },
+ {
+   "Centrum Projektowania Doświadczeń w Branży i Turystyce": "Centre for Designing Experiences in Events and Tourism"
+ },
+ {
+   "Centrum Przywództwa i Społecznej Odpowiedzialności Biznesu (WNEiZ)": "Centre for Leadership and Corporate Social Responsibility (FESM)"
+ },
+ {
+   "Centrum Studiów Wyborczych (WPiA)": "Centr for Electoral Studies (FLA)"
+ },
+ {
+   "Chór Akademicki": "Academic Choir"
+ },
+ {
+   "Dokumentaliści": "Documentalists"
+ },
+ {
+   "Dom Akademicki nr 1": "Academic House No. 1"
+ },
+ {
+   "Dom Studencki nr 1": "Student House No. 1"
+ },
+ {
+   "Dom Studencki nr 1": "Student House No. 1"
+ },
+ {
+   "Dom Studencki Nr 1": "Student House No. 1"
+ },
+ {
+   "Dom Studencki nr 10": "Student House No. 10"
+ },
+ {
+   "Dom Studencki nr 10": "Student House No. 10"
+ },
+ {
+   "Dom Studencki nr 11": "Student House No. 11"
+ },
+ {
+   "Dom Studencki nr 11": "Student House No. 11"
+ },
+ {
+   "Dom Studencki nr 12": "Student House No. 12"
+ },
+ {
+   "Dom Studencki nr 12": "Student House No. 12"
+ },
+ {
+   "Dom Studencki nr 2": "Student House No. 2"
+ },
+ {
+   "Dom Studencki nr 2": "Student House No. 2"
+ },
+ {
+   "Dom Studencki Nr 2": "Student House No. 2"
+ },
+ {
+   "Dom Studencki nr 3": "Student House No. 3"
+ },
+ {
+   "Dom Studencki nr 3": "Student House No. 3"
+ },
+ {
+   "Dom Studencki nr 5": "Student House No. 5"
+ },
+ {
+   "Dom Studencki nr 5": "Student House No. 5"
+ },
+ {
+   "Dom Studencki nr 6": "Student House No. 6"
+ },
+ {
+   "Dom Studencki nr 6": "Student House No. 6"
+ },
+ {
+   "Dom Studencki nr 7": "Student House No. 7"
+ },
+ {
+   "Dom Studencki nr 7": "Student House No. 7"
+ },
+ {
+   "Dom Studencki nr 8": "Student House No. 8"
+ },
+ {
+   "Dom Studencki nr 8": "Student House No. 8"
+ },
+ {
+   "Dom Studencki nr 9": "Student House No. 9"
+ },
+ {
+   "Dom Studencki nr 9": "Student House No. 9"
+ },
+ {
+   "Dom Studencki nr3 ": "Student House no. 3"
+ },
+ {
+   "Drukarnia i Introligatornia": "Printery and Bookbindery"
+ },
+ {
+   "Dyskusyjny Klub Filmowy \"Niebieski Kocyk\"": "Film Discussion Club “niebieski Kocyk”"
+ },
+ {
+   "Dział Administracyjno-Gospodarczy": "Department of Administration and Maintenance"
+ },
+ {
+   "Dział Administracyjno-Gospodarczy (Obsługa SPNJO)": "Department of Administration and Maintenance (SPNJO)"
+ },
+ {
+   "Dział Administracyjno-Gospodarczy CM": "CM Department of Administration and Maintenance"
+ },
+ {
+   "Dział Aparatury Naukowej": "Department of Academic Equipment Maintenance"
+ },
+ {
+   "Dział Audytu Wewnętrznego i Kontroli": "Department of Internal Audit and Control"
+ },
+ {
+   "Dział Domów Studenckich i Akademickich": "Department of Student"
+ },
+ {
+   "Dział Domów Studenckich i Akademickich CM": "CM Department of Student and Academic Houses"
+ },
+ {
+   "Dział Domów Studenckich i Hoteli Asystenckich": "Department of Student and Employee Houses"
+ },
+ {
+   "Dział Domów Studenckich i Hoteli Asystenckich CM": "CM Department of Student and Employee Houses"
+ },
+ {
+   "Dział Dydaktyki CM": "CM Department of Didactics"
+ },
+ {
+   "Dział Energetyczny": "Department of Power Engineering"
+ },
+ {
+   "Dział Energetyki CM": "CM Department of Facility Maintenance"
+ },
+ {
+   "Dział Finansowy": "Department of Finance"
+ },
+ {
+   "Dział Finansowy CM": "CM Department of Finance"
+ },
+ {
+   "Dział Informatyczny CM": "CM Department of It Management"
+ },
+ {
+   "Dział Informatycznych Zamówień Publicznych": "Department of ICT Public Procurement"
+ },
+ {
+   "Dział Informatyzacji Administracji": "Department of Administration Informatisation"
+ },
+ {
+   "Dział Informatyzacji Collegium Medicum": "Department of Collegium Medicum Informatisation"
+ },
+ {
+   "Dział Informatyzacji Toku Nauczania": "Department of Education Informatisation"
+ },
+ {
+   "Dział Inwentaryzacji": "Department of Stocktaking"
+ },
+ {
+   "Dział Inwestycyjny": "Department of Investments!!!156!!!"
+ },
+ {
+   "": ""
+ },
+ {
+   "": ""
+ },
+ 
+ 
+]
