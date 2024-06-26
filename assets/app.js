@@ -9,16 +9,6 @@ import {BrowserRouter, Routes, Route, Navigate} from 'react-router-dom';
 import { createRoot } from 'react-dom/client';
 import i18n from './javascript/i18n.js';
 
-// ReactDom.render(<BrowserRouter> <Page1/> </BrowserRouter>, document.getElementById('root')); 1
-
-// const root = createRoot(document.getElementById("root"));
-// root.render(
-//     <React.StrictMode>     2
-//         <Page1/>
-//     </React.StrictMode>
-// );
-
-// createRoot(document.getElementById('root')).render(<Page1/>); 3 ok
 
 export default function App() {
     return(
@@ -33,9 +23,3 @@ export default function App() {
 }
 
 createRoot(document.getElementById('root')).render(<App/>);
-
-
-// <Route element={<Layout />}>
-//     <Route path="/" element={<Page1 />} />
-//     <Route path="page2" element={<Page2 />} />
-// </Route>

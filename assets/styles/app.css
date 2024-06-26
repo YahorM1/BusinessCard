@@ -51,34 +51,13 @@ label {
 }
 
 button {
-    /*display: inline-block;*/
-    /*position: relative;*/
-    /*!*flex-direction: row;*!*/
-    /*bottom: 70%;*/
-
     display: flex;
     justify-content: center;
     flex-direction: row;
     margin: 0 auto;
 }
 
-.button1 {
-    width: 200px;
-}
 
-.button2 {
-    width: 200px;
-}
-
-
-/*img {*/
-/*    width: 100%;*/
-/*    !*margin-left: auto;*!*/
-/*    !*margin-right: auto;*!*/
-/*}*/
-
-
-/*вся страница*/
 .page2Body {
     margin: auto;
     padding: 0;
@@ -92,41 +71,35 @@ button {
     justify-content: center;
 }
 
-/*всё, кроме кнопок*/
+
 .PageContent {
     position: relative;
     width: 96mm;
     height: 55.8mm;
     margin: 0;
     top: 0;
-    /*border: 0.1mm solid lightgray;*/
 }
 
-/*rewers*/
 .PageContent_2 {
     position: relative;
     width: 96mm;
     height: 55.8mm;
     margin: 0;
     top: 0;
-    /*border: 0.1mm solid lightgray;*/
 }
 
-/*картинка*/
 .backgroundImg,
 .reverseImg {
     width: 100%;
     height: 100%;
 }
 
-/*два блока с данными, не включает картинку*/
 .container_page2 {
     position: relative;
     width: 90mm;
     height: 30mm;
     margin: auto;
     bottom: 33mm;
-    /*background-color: orange;*/
     overflow: hidden;
 }
 
@@ -134,7 +107,6 @@ button {
 .div2 {
     font-family: Arial serif;
     display: inline-block;
-    /*position: relative;*/
     height: 30mm;
     vertical-align: top;
 }
@@ -151,10 +123,6 @@ button {
 }
 
 
-/*.div1 p, .div2 p {*/
-/*    margin-top: 1mm;*/
-/*    margin-bottom: 1mm;*/
-/*}*/
 .text2 {
     margin-top: -2mm;
     margin-bottom: 1mm;
@@ -193,7 +161,6 @@ button {
 
 .text4,
 .text9{
-    /*color: #f82f04;*/
     color: #9393ce;
     font-weight: lighter;
     text-transform: uppercase;

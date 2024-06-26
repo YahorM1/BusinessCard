@@ -32,25 +32,8 @@ class PDFController extends AbstractController
      * @throws SyntaxError
      * @throws LoaderError
      */
-    #[Route('/generate-pdf', name: 'generate-pdf')]
-    public function genPDF(): Response
-    {
 
-        $html = $this->renderView('page2/index.html.twig');
-        $snappy = $this->get('knp_snappy.pdf');
-        $title = 'my pdf';
-        $filename = 'mypdf.pdf';
-        $snappy->setOption('page-size', '96x56mm');
-        $pdf = $snappy->getOutputFromHtml($html);
-        return new Response(
-            $pdf,
-            200,
-            ['Content-Type' => 'application/pdf', 'Content-Disposition' => 'attachment; filename="mypdf.pdf"']
-        );
-    }
-}
-
-//        $html = $this->twig->render('page2/index.html.twig');
+    //        $html = $this->twig->render('page2/index.html.twig');
 //        $newPDF = $this->weasyPring->getOutputFromHtml($html);
 //
 //        return new PdfResponse(
@@ -65,9 +48,6 @@ class PDFController extends AbstractController
 
 //
 //
-//
-//
-//
 //        $html = $this->renderView('page2/index.html.twig');
 //        $snappy = new Pdf('/usr/bin/wkhtmltopdf');
 //        $pdfContent = $snappy->getOutputFromHtml($html);
@@ -79,3 +59,5 @@ class PDFController extends AbstractController
 //                'Content-Disposition' => 'attachment; filename="wizytowka.pdf"',
 //            ]
 //        );
+
+}
