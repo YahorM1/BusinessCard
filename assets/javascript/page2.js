@@ -1,10 +1,11 @@
-import React, {useEffect, useRef, useState} from "react";
+import React, {useContext, useEffect, useRef, useState} from "react";
 import '../styles/app.css';
 import axios from "axios";
 import html2pdf from "html2pdf.js/src";
 import { jsPDF } from "jspdf";
 import {useTranslation} from "react-i18next";
 import i18n from './i18n.js';
+import {dataContext} from "../app";
 
 import UMK_Logo from '../wizytowki/UMK.jpg';
 import UMK_WCh_Logo from '../wizytowki/UMK_WCh.jpg';
@@ -33,18 +34,19 @@ import {Link} from "react-router-dom";
 
 
 function Page2() {
-    const defaultFontSize = 7;
+    const {cardData} = useContext(dataContext);
+
     const maxFontSizeChange = 2;
 
-    const [fontSize1, setFontSize1] = useState(defaultFontSize);
-    const [fontSize2, setFontSize2] = useState(defaultFontSize);
-    const [fontSize3, setFontSize3] = useState(defaultFontSize);
-    const [fontSize4, setFontSize4] = useState(defaultFontSize);
-    const [fontSize5, setFontSize5] = useState(defaultFontSize);
-    const [fontSize6, setFontSize6] = useState(defaultFontSize);
-    const [fontSize7, setFontSize7] = useState(defaultFontSize);
-    const [fontSize8, setFontSize8] = useState(defaultFontSize);
-    const [fontSize9, setFontSize9] = useState(defaultFontSize);
+    const [fontSize1, setFontSize1] = useState(12);
+    const [fontSize2, setFontSize2] = useState(12);
+    const [fontSize3, setFontSize3] = useState(7.5);
+    const [fontSize4, setFontSize4] = useState(8);
+    const [fontSize5, setFontSize5] = useState(7.8);
+    const [fontSize6, setFontSize6] = useState(9);
+    const [fontSize7, setFontSize7] = useState(9.5);
+    const [fontSize8, setFontSize8] = useState(9);
+    const [fontSize9, setFontSize9] = useState(8.5);
 
     const paragraph1Ref = useRef(null);
     const paragraph2Ref = useRef(null);
@@ -77,11 +79,11 @@ function Page2() {
     }, [showControls]);
 
 
-    function increaseFontSize(setFontSize) {
-        setFontSize(prevSize => Math.min(prevSize + maxFontSizeChange, defaultFontSize + maxFontSizeChange));
+    function increaseFontSize(setFontSize, fontSize) {
+        setFontSize(prevSize => Math.min(prevSize + maxFontSizeChange, fontSize + maxFontSizeChange));
     }
-    function decreaseFontSize(setFontSize) {
-        setFontSize(prevSize => Math.max(prevSize - maxFontSizeChange, defaultFontSize - maxFontSizeChange));
+    function decreaseFontSize(setFontSize, fontSize) {
+        setFontSize(prevSize => Math.max(prevSize - maxFontSizeChange, fontSize - maxFontSizeChange));
     }
 
     function generatePDF() {
@@ -103,21 +105,22 @@ function Page2() {
     }
 
 
-    const titleStorage = sessionStorage.getItem('Title');
-    const nameStorage = sessionStorage.getItem('Name');
-    const functionStorage = sessionStorage.getItem('Function');
-    const unitStorage = sessionStorage.getItem('Unit');
-    const departmentStorage = sessionStorage.getItem('Department');
-    const addressStorage = sessionStorage.getItem('Address');
-    const phoneStorage = sessionStorage.getItem('Phone');
-    const mobileStorage = sessionStorage.getItem('Mobile');
-    const emailStorage = sessionStorage.getItem('Email');
-    const wwwStorage = sessionStorage.getItem('WWW');
-    const logoStorage = sessionStorage.getItem('Logo');
-    const reverseStorage = sessionStorage.getItem('Reverse');
+    const titleStorage = localStorage.getItem('Title');
+    const nameStorage = localStorage.getItem('Name');
+    const functionStorage = localStorage.getItem('Function');
+    const unitStorage = localStorage.getItem('Unit');
+    const departmentStorage = localStorage.getItem('Department');
+    const address1Storage = localStorage.getItem('Address1');
+    const address2Storage = localStorage.getItem('Address2');
+    const phoneStorage = localStorage.getItem('Phone');
+    const mobileStorage = localStorage.getItem('Mobile');
+    const emailStorage = localStorage.getItem('Email');
+    const wwwStorage = localStorage.getItem('WWW');
+    const logoStorage = localStorage.getItem('Logo');
+    const reverseStorage = localStorage.getItem('Reverse');
 
     let logoImage;
-    switch(logoStorage){
+    switch(cardData.logo){
         case 'UMK_WCh':
             logoImage = <img src={UMK_WCh_Logo} alt="Logo" className="backgroundImg"/>;
             break;
@@ -172,7 +175,7 @@ function Page2() {
     }
 
     let reverseImage;
-    switch(reverseStorage){
+    switch(cardData.reverse){
         case 'rewers_nr_1':
             reverseImage = <img src={reverse1} alt="Reverse" className="reverseImg"/>
             break;
@@ -199,11 +202,11 @@ function Page2() {
                         onClick={() => handleClick_(paragraph1Ref)}>
                         {showControls === "content1" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize1)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize1)}>-</span>
+                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize1, 12)}>+</span>
+                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize1, 12)}>-</span>
                             </>
                         )}
-                        {titleStorage}
+                        {cardData.title}
                     </p>
 
                     <p className="text2 imie-nazwisko" id="content2" contentEditable="true"
@@ -212,11 +215,12 @@ function Page2() {
                         onClick={() => handleClick_(paragraph2Ref)}>
                         {showControls === "content2" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize2)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize2)}>-</span>
+                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize2, 12)}>+</span>
+                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize2, 12)}>-</span>
                             </>
                         )}
-                        {nameStorage}
+                        {/*{nameStorage}*/}
+                        {cardData.name}
                     </p>
 
                     <p className="text3 stanowisko" id="content3" contentEditable="true"
@@ -225,11 +229,11 @@ function Page2() {
                         onClick={() => handleClick_(paragraph3Ref)}>
                         {showControls === "content3" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize3)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize3)}>-</span>
+                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize3, 7.5)}>+</span>
+                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize3, 7.5)}>-</span>
                             </>
                         )}
-                        {functionStorage}
+                        {cardData.function}
                     </p>
 
                     <p className="text4 jednostka" id="content4" contentEditable="true"
@@ -238,11 +242,11 @@ function Page2() {
                         onClick={() => handleClick_(paragraph4Ref)}>
                         {showControls === "content4" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize4)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize4)}>-</span>
+                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize4, 8)}>+</span>
+                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize4, 8)}>-</span>
                             </>
                         )}
-                        {unitStorage}
+                        {cardData.unit}
                     </p>
 
                     <p className="text9 katedra" id="content5" contentEditable="true"
@@ -251,11 +255,11 @@ function Page2() {
                         onClick={() => handleClick_(paragraph5Ref)}>
                         {showControls === "content5" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize5)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize5)}>-</span>
+                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize5, 7.8)}>+</span>
+                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize5, 7.8)}>-</span>
                             </>
                         )}
-                        {departmentStorage}
+                        {cardData.department}
                     </p>
                 </div>
                 <div className="div2">
@@ -263,11 +267,11 @@ function Page2() {
                        style={{fontSize: `${fontSize6}px`}}
                        ref={paragraph6Ref}
                         onClick={() => handleClick_(paragraph6Ref)}>
-                        {unitStorage}
+                        {cardData.address1}
                         {showControls === "content6" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize6)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize6)}>-</span>
+                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize6, 9)}>+</span>
+                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize6, 9)}>-</span>
                             </>
                         )}
                     </p>
@@ -276,11 +280,11 @@ function Page2() {
                        style={{fontSize: `${fontSize7}px`}}
                        ref={paragraph7Ref}
                         onClick={() => handleClick_(paragraph7Ref)}>
-                        {addressStorage}
+                        {cardData.address2}
                         {showControls === "content7" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize7)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize7)}>-</span>
+                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize7, 9.5)}>+</span>
+                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize7, 9.5)}>-</span>
                             </>
                         )}
                     </p>
@@ -289,11 +293,11 @@ function Page2() {
                        style={{fontSize: `${fontSize8}px`}}
                        ref={paragraph8Ref}
                         onClick={() => handleClick_(paragraph8Ref)}>
-                        {mobileStorage}
+                        {cardData.mobile}
                         {showControls === "content8" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize8)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize8)}>-</span>
+                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize8, 9)}>+</span>
+                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize8, 9)}>-</span>
                             </>
                         )}
                     </p>
@@ -302,11 +306,11 @@ function Page2() {
                        style={{fontSize: `${fontSize9}px`}}
                        ref={paragraph9Ref}
                         onClick={() => handleClick_(paragraph9Ref)}>
-                        {emailStorage}
+                        {cardData.email}
                         {showControls === "content9" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize9)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize9)}>-</span>
+                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize9, 8.5)}>+</span>
+                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize9, 8.5)}>-</span>
                             </>
                         )}
                     </p>
@@ -319,6 +323,7 @@ function Page2() {
         </div>
 
         <button onClick={generatePDF}>Eksportuj do PDF</button>
+        <button className="link2"><Link to="/">Wstecz</Link></button>
         </body>
     )
 }
