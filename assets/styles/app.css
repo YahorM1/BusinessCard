@@ -122,25 +122,33 @@ button {
     width: 39mm;
 }
 
-
+.text1 {
+    margin-top: 0.5mm;
+    margin-bottom: 1.5mm;
+}
 .text2 {
     margin-top: -2mm;
-    margin-bottom: 1mm;
+    margin-bottom: 0.5mm;
 }
 .text3 {
-    margin-top: 1mm;
-    margin-bottom: 2mm;
+    margin-top: 0.5mm;
+    margin-bottom: 0;
 }
 .text4 {
+    margin-top: 1.5mm;
     margin-bottom: -2mm;
 }
-.text6 {
-    margin-top: -2mm;
-    margin-bottom: -1mm;
-}
+/*.text5 {*/
+/*    margin-top: 1mm;*/
+/*    margin-bottom: 1.5mm;*/
+/*}*/
+/*.text6 {*/
+/*    margin-top: -2mm;*/
+/*    margin-bottom: -1mm;*/
+/*}*/
 
 .page2Body button {
-    margin-top: 8mm;
+    margin-top: 2mm;
 }
 
 .Translation {
@@ -172,11 +180,17 @@ button {
     font-weight: normal;
 }
 
-.link {
+.link1 {
     display: flex;
     justify-content: center;
     flex-direction: row;
     margin: 10% auto;
+}
+.link2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 0 auto;
 }
 
 
