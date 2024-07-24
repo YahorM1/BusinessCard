@@ -110,21 +110,6 @@ function Page2() {
         }).set(config).from(page2).toContainer().toCanvas().toPdf().save('wizytowka.pdf');
     }
 
-
-    const titleStorage = localStorage.getItem('Title');
-    const nameStorage = localStorage.getItem('Name');
-    const functionStorage = localStorage.getItem('Function');
-    const unitStorage = localStorage.getItem('Unit');
-    const departmentStorage = localStorage.getItem('Department');
-    const address1Storage = localStorage.getItem('Address1');
-    const address2Storage = localStorage.getItem('Address2');
-    const phoneStorage = localStorage.getItem('Phone');
-    const mobileStorage = localStorage.getItem('Mobile');
-    const emailStorage = localStorage.getItem('Email');
-    const wwwStorage = localStorage.getItem('WWW');
-    const logoStorage = localStorage.getItem('Logo');
-    const reverseStorage = localStorage.getItem('Reverse');
-
     let logoImage;
     switch(cardData.logo){
         case 'UMK_WCh':
