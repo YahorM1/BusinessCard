@@ -38,15 +38,18 @@ function Page2() {
 
     const maxFontSizeChange = 2;
 
-    const [fontSize1, setFontSize1] = useState(12);
-    const [fontSize2, setFontSize2] = useState(12);
+    const [fontSize1, setFontSize1] = useState(13.5);
+    const [fontSize2, setFontSize2] = useState(12.5);
     const [fontSize3, setFontSize3] = useState(7.5);
     const [fontSize4, setFontSize4] = useState(8);
     const [fontSize5, setFontSize5] = useState(7.8);
     const [fontSize6, setFontSize6] = useState(9);
-    const [fontSize7, setFontSize7] = useState(9.5);
+    const [fontSize7, setFontSize7] = useState(9);
     const [fontSize8, setFontSize8] = useState(9);
     const [fontSize9, setFontSize9] = useState(8.5);
+    const [fontSize10, setFontSize10] = useState(8.5);
+    const [fontSize11, setFontSize11] = useState(8.5);
+    const [fontSize12, setFontSize12] = useState(7.8);
 
     const paragraph1Ref = useRef(null);
     const paragraph2Ref = useRef(null);
@@ -57,6 +60,9 @@ function Page2() {
     const paragraph7Ref = useRef(null);
     const paragraph8Ref = useRef(null);
     const paragraph9Ref = useRef(null);
+    const paragraph10Ref = useRef(null);
+    const paragraph11Ref = useRef(null);
+    const paragraph12Ref = useRef(null);
 
 
 
@@ -199,11 +205,11 @@ function Page2() {
                     <p className="text1 tytul" id="content1" contentEditable="true"
                        style={{fontSize: `${fontSize1}px`}}
                        ref={paragraph1Ref}
-                        onClick={() => handleClick_(paragraph1Ref)}>
+                       onClick={() => handleClick_(paragraph1Ref)}>
                         {showControls === "content1" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize1, 12)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize1, 12)}>-</span>
+                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize1, 13.5)}>+</span>
+                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize1, 13.5)}>-</span>
                             </>
                         )}
                         {cardData.title}
@@ -212,11 +218,11 @@ function Page2() {
                     <p className="text2 imie-nazwisko" id="content2" contentEditable="true"
                        style={{fontSize: `${fontSize2}px`}}
                        ref={paragraph2Ref}
-                        onClick={() => handleClick_(paragraph2Ref)}>
+                       onClick={() => handleClick_(paragraph2Ref)}>
                         {showControls === "content2" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize2, 12)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize2, 12)}>-</span>
+                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize2, 12.5)}>+</span>
+                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize2, 12.5)}>-</span>
                             </>
                         )}
                         {/*{nameStorage}*/}
@@ -226,11 +232,13 @@ function Page2() {
                     <p className="text3 stanowisko" id="content3" contentEditable="true"
                        style={{fontSize: `${fontSize3}px`}}
                        ref={paragraph3Ref}
-                        onClick={() => handleClick_(paragraph3Ref)}>
+                       onClick={() => handleClick_(paragraph3Ref)}>
                         {showControls === "content3" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize3, 7.5)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize3, 7.5)}>-</span>
+                                <span className="plus-minus"
+                                      onClick={() => increaseFontSize(setFontSize3, 7.5)}>+</span>
+                                <span className="plus-minus"
+                                      onClick={() => decreaseFontSize(setFontSize3, 7.5)}>-</span>
                             </>
                         )}
                         {cardData.function}
@@ -239,7 +247,7 @@ function Page2() {
                     <p className="text4 jednostka" id="content4" contentEditable="true"
                        style={{fontSize: `${fontSize4}px`}}
                        ref={paragraph4Ref}
-                        onClick={() => handleClick_(paragraph4Ref)}>
+                       onClick={() => handleClick_(paragraph4Ref)}>
                         {showControls === "content4" && (
                             <>
                                 <span className="plus-minus" onClick={() => increaseFontSize(setFontSize4, 8)}>+</span>
@@ -252,21 +260,37 @@ function Page2() {
                     <p className="text9 katedra" id="content5" contentEditable="true"
                        style={{fontSize: `${fontSize5}px`}}
                        ref={paragraph5Ref}
-                        onClick={() => handleClick_(paragraph5Ref)}>
+                       onClick={() => handleClick_(paragraph5Ref)}>
                         {showControls === "content5" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize5, 7.8)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize5, 7.8)}>-</span>
+                                <span className="plus-minus"
+                                      onClick={() => increaseFontSize(setFontSize5, 7.8)}>+</span>
+                                <span className="plus-minus"
+                                      onClick={() => decreaseFontSize(setFontSize5, 7.8)}>-</span>
                             </>
                         )}
-                        {cardData.department}
+                        {cardData.department1}
+                    </p>
+                    <p className="text12 katedra2" id="content12" contentEditable="true"
+                       style={{fontSize: `${fontSize12}px`}}
+                       ref={paragraph12Ref}
+                       onClick={() => handleClick_(paragraph12Ref)}>
+                        {showControls === "content12" && (
+                            <>
+                                <span className="plus-minus"
+                                      onClick={() => increaseFontSize(setFontSize12, 7.8)}>+</span>
+                                <span className="plus-minus"
+                                      onClick={() => decreaseFontSize(setFontSize12, 7.8)}>-</span>
+                            </>
+                        )}
+                        {cardData.department2}
                     </p>
                 </div>
                 <div className="div2">
                     <p className="text5 wydzial" id="content6" contentEditable="true"
                        style={{fontSize: `${fontSize6}px`}}
                        ref={paragraph6Ref}
-                        onClick={() => handleClick_(paragraph6Ref)}>
+                       onClick={() => handleClick_(paragraph6Ref)}>
                         {cardData.address1}
                         {showControls === "content6" && (
                             <>
@@ -279,12 +303,14 @@ function Page2() {
                     <p className="text6 adres" id="content7" contentEditable="true"
                        style={{fontSize: `${fontSize7}px`}}
                        ref={paragraph7Ref}
-                        onClick={() => handleClick_(paragraph7Ref)}>
+                       onClick={() => handleClick_(paragraph7Ref)}>
                         {cardData.address2}
                         {showControls === "content7" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize7, 9.5)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize7, 9.5)}>-</span>
+                                <span className="plus-minus"
+                                      onClick={() => increaseFontSize(setFontSize7, 9)}>+</span>
+                                <span className="plus-minus"
+                                      onClick={() => decreaseFontSize(setFontSize7, 9)}>-</span>
                             </>
                         )}
                     </p>
@@ -292,7 +318,7 @@ function Page2() {
                     <p className="text7 telefon" id="content8" contentEditable="true"
                        style={{fontSize: `${fontSize8}px`}}
                        ref={paragraph8Ref}
-                        onClick={() => handleClick_(paragraph8Ref)}>
+                       onClick={() => handleClick_(paragraph8Ref)}>
                         {cardData.mobile}
                         {showControls === "content8" && (
                             <>
@@ -305,12 +331,42 @@ function Page2() {
                     <p className="text8 email" id="content9" contentEditable="true"
                        style={{fontSize: `${fontSize9}px`}}
                        ref={paragraph9Ref}
-                        onClick={() => handleClick_(paragraph9Ref)}>
+                       onClick={() => handleClick_(paragraph9Ref)}>
                         {cardData.email}
                         {showControls === "content9" && (
                             <>
-                                <span className="plus-minus" onClick={() => increaseFontSize(setFontSize9, 8.5)}>+</span>
-                                <span className="plus-minus" onClick={() => decreaseFontSize(setFontSize9, 8.5)}>-</span>
+                                <span className="plus-minus"
+                                      onClick={() => increaseFontSize(setFontSize9, 8.5)}>+</span>
+                                <span className="plus-minus"
+                                      onClick={() => decreaseFontSize(setFontSize9, 8.5)}>-</span>
+                            </>
+                        )}
+                    </p>
+                    <p className="text10 www" id="content10" contentEditable="true"
+                       style={{fontSize: `${fontSize10}px`}}
+                       ref={paragraph10Ref}
+                       onClick={() => handleClick_(paragraph10Ref)}>
+                        {cardData.www}
+                        {showControls === "content10" && (
+                            <>
+                                <span className="plus-minus"
+                                      onClick={() => increaseFontSize(setFontSize10, 8.5)}>+</span>
+                                <span className="plus-minus"
+                                      onClick={() => decreaseFontSize(setFontSize10, 8.5)}>-</span>
+                            </>
+                        )}
+                    </p>
+                    <p className="text11 phone" id="content11" contentEditable="true"
+                       style={{fontSize: `${fontSize11}px`}}
+                       ref={paragraph11Ref}
+                       onClick={() => handleClick_(paragraph11Ref)}>
+                        {cardData.phone}
+                        {showControls === "content11" && (
+                            <>
+                                <span className="plus-minus"
+                                      onClick={() => increaseFontSize(setFontSize11, 8.5)}>+</span>
+                                <span className="plus-minus"
+                                      onClick={() => decreaseFontSize(setFontSize11, 8.5)}>-</span>
                             </>
                         )}
                     </p>

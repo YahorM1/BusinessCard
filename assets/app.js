@@ -11,13 +11,14 @@ import { createRoot } from 'react-dom/client';
 export const dataContext = createContext();
 export default function App() {
     const [cardData, setCardData] = useState(() => {
-        const savedData = localStorage.getItem('cardData');
+        const savedData = sessionStorage.getItem('cardData');
         return savedData ? JSON.parse(savedData) : {
             title: '',
             name: '',
             function: '',
             unit: '',
-            department: '',
+            department1: '',
+            department2: '',
             address1: '',
             address2: '',
             phone: '',
@@ -30,7 +31,7 @@ export default function App() {
     });
 
     useEffect(() => {
-        localStorage.setItem('cardData', JSON.stringify(cardData));
+        sessionStorage.setItem('cardData', JSON.stringify(cardData));
     }, [cardData]);
 
     return(

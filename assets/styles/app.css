@@ -134,18 +134,34 @@ button {
     margin-top: 0.5mm;
     margin-bottom: 0;
 }
-.text4 {
+.text4, .text9,
+.text12 {
     margin-top: 1.5mm;
-    margin-bottom: -2mm;
+    margin-bottom: -1.5mm;
 }
-/*.text5 {*/
-/*    margin-top: 1mm;*/
-/*    margin-bottom: 1.5mm;*/
-/*}*/
-/*.text6 {*/
-/*    margin-top: -2mm;*/
-/*    margin-bottom: -1mm;*/
-/*}*/
+.text5 {
+    margin-top: 1.5mm;
+    margin-bottom: 0;
+}
+.text6 {
+    margin-top: 0.6mm;
+    margin-bottom: 0;
+}
+.text7 {
+    margin-top: 0.4mm;
+    margin-bottom: 1mm;
+}
+.text8 {
+    margin-top: 1mm;
+    margin-bottom: 0;
+}
+.text10 {
+    margin-top: -0.2mm;
+    margin-bottom: 0;
+}
+.text11 {
+    margin-top: -0.2mm;
+}
 
 .page2Body button {
     margin-top: 2mm;
@@ -167,15 +183,16 @@ button {
     text-transform: uppercase;
 }
 
-.text4,
-.text9{
+.text4, .text9,
+.text12 {
     color: #9393ce;
     font-weight: lighter;
     text-transform: uppercase;
 }
 
 .text5, .text6,
-.text7, .text8 {
+.text7, .text8,
+.text10, .text11 {
     color: #1a1aab;
     font-weight: normal;
 }

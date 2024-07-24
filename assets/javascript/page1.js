@@ -11,103 +11,6 @@ function Page1() {
         setCardData({...cardData, [e.target.name]: e.target.value });
     };
 
-    const [title, setTitle] = useState('');
-    const [name, setName] = useState('');
-    const [function_, setFunction] = useState('');
-    const [unit, setUnit] = useState('');
-    const [department, setDepartment] = useState('');
-    const [address1, setAddress1] = useState('');
-    const [address2, setAddress2] = useState('');
-    const [phone, setPhone] = useState('');
-    const [mobile, setMobile] = useState('');
-    const [email, setEmail] = useState('');
-    const [www, setWWW] = useState('');
-    const [reverse, setReverse] = useState('');
-    const [logo, setLogo] = useState('');
-
-    function handleTitleChange(event) {
-        setTitle(event.target.value);
-    }
-
-    function handleNameChange(event) {
-        setName(event.target.value);
-    }
-
-    function handleFunctionChange(event) {
-        setFunction(event.target.value);
-    }
-
-    function handleUnitChange(event) {
-        setUnit(event.target.value);
-    }
-
-    function handleDepartmentChange(event) {
-        setDepartment(event.target.value);
-    }
-
-    function handleAddress1Change(event) {
-        setAddress1(event.target.value);
-    }
-
-    function handleAddress2Change(event) {
-        setAddress2(event.target.value);
-    }
-
-    function handlePhoneChange(event) {
-        setPhone(event.target.value);
-    }
-
-    function handleMobileChange(event) {
-        setMobile(event.target.value);
-    }
-
-    function handleEmailChange(event) {
-        setEmail(event.target.value);
-    }
-
-    function handleWWWChange(event) {
-        setWWW(event.target.value);
-    }
-
-    function handleLogoChange(event) {
-        setLogo(event.target.value);
-    }
-
-    function handleReverseChange(event) {
-        setReverse(event.target.value);
-    }
-
-    const dataToPass = {
-        [title]: title,
-        [name]: name,
-        [function_]: function_,
-        [unit]: unit,
-        [department]: department,
-        [address1]: address1,
-        [address2]: address2,
-        [phone]: phone,
-        [mobile]: mobile,
-        [email]: email,
-        [www]: www
-    };
-
-
-    const collect = () => {
-        localStorage.setItem('Title', title);
-        localStorage.setItem('Name', name);
-        localStorage.setItem('Function', function_);
-        localStorage.setItem('Unit', unit);
-        localStorage.setItem('Department', department);
-        localStorage.setItem('Address1', address1);
-        localStorage.setItem('Address2', address2);
-        localStorage.setItem('Phone', phone);
-        localStorage.setItem('Mobile', mobile);
-        localStorage.setItem('Email', email);
-        localStorage.setItem('WWW', www);
-        localStorage.setItem('Logo', logo);
-        localStorage.setItem('Reverse', reverse);
-    };
-
 
     return (
         <>
@@ -116,22 +19,18 @@ function Page1() {
 
             <div className="container">
                 <span>Stopien naukowy/tytul</span>
-                {/*<input className="textIn" type="text" id="tytul" value={title} onChange={handleTitleChange}/>*/}
                 <input className="textIn" type="text" name="title" value={cardData.title} onChange={handleChange}/>
             </div>
             <div className="container">
                 <span>Imie, nazwisko </span>
-                {/*<input className="textIn" type="text" id="imie" value={name} onChange={handleNameChange}/>*/}
                 <input className="textIn" type="text" name="name" value={cardData.name} onChange={handleChange}/>
             </div>
             <div className="container">
                 <span>Funkcja/Stanowisko </span>
-                {/*<input className="textIn" type="text" id="funkcja" value={function_} onChange={handleFunctionChange}/>*/}
                 <input className="textIn" type="text" name="function" value={cardData.function} onChange={handleChange}/>
             </div>
             <div className="container">
                 <span>Jednostka</span>
-                {/*<select className="textIn" id="jednostka" value={unit} onChange={handleUnitChange}>*/}
                 <select className="textIn" name="unit" value={cardData.unit} onChange={handleChange}>
                     <option>Wybierz wydzial</option>
                     <option>Wydział Chemii</option>
@@ -153,10 +52,10 @@ function Page1() {
                 </select>
             </div>
             <div className="container">
-                <span></span><input className="textIn" type="text" name="department" placeholder="Katedra"
-                                    value={cardData.department}
-                                    onChange={handleChange}/><br/>
-                <span></span><input className="textIn" type="text"/><br/>
+                <span></span><input className="textIn" type="text" name="department1"
+                                    value={cardData.department1} onChange={handleChange}/><br/>
+                <span></span><input className="textIn" type="text" name="department2"
+                                    value={cardData.department2} onChange={handleChange}/><br/>
             </div>
             <div className="container">
                 <span>Adres </span><input className="textIn" type="text" name="address1" value={cardData.address1}
@@ -166,22 +65,18 @@ function Page1() {
             </div>
             <div className="container">
                 <span>Telefon/fax </span>
-                {/*<input className="textIn" type="text" id="telefon" value={phone} onChange={handlePhoneChange}/>*/}
                 <input className="textIn" type="text" name="phone" value={cardData.phone} onChange={handleChange}/>
             </div>
             <div className="container">
                 <span>Telefon komorkowy </span>
-                {/*<input className="textIn" type="text" id="telefon_kom" value={mobile} onChange={handleMobileChange}/>*/}
                 <input className="textIn" type="text" name="mobile" value={cardData.mobile} onChange={handleChange}/>
             </div>
             <div className="container">
                 <span>E-mail </span>
-                {/*<input className="textIn" type="text" id="email" value={email} onChange={handleEmailChange}/>*/}
                 <input className="textIn" type="text" name="email" value={cardData.email} onChange={handleChange}/>
             </div>
             <div className="container">
                 <span>www </span>
-                {/*<input className="textIn" type="text" id="www" value={www} onChange={handleWWWChange}/>*/}
                 <input className="textIn" type="text" name="www" value={cardData.www} onChange={handleChange}/>
             </div>
             <div className="container">
@@ -226,8 +121,7 @@ function Page1() {
                 </label>
             </div>
 
-            <button className="link1"><Link to="/page2" onClick={collect}>Podgląd wizytowki</Link></button>
-            {/*<button className="link1" type="submit"><Link to="/page2">Podgląd wizytowki</Link></button>*/}
+            <button className="link1"><Link to="/page2">Podgląd wizytowki</Link></button>
         </>
     )
 }
